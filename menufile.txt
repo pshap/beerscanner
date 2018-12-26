@@ -1,0 +1,1912 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>
+Timothy O'Toole's Chicago Beer Menu | Timothy O'Toole's Chicago</title>
+<meta content="
+Timothy O&amp;#39;Toole&amp;#39;s Chicago has a great selection of craft beer, cocktails and spirits combining local favorites and craft cocktails. " name="description">
+<meta content="
+craft beer, wine, spirits, bourbon, whiskey, cocktails, drink specials, Guinness Black List, margaritas, Chicago, bottomless mimosas, bottomless bloody marys, bloody marys" name="keywords">
+<meta content="Code Green Development" name="author">
+<meta property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="" property="og:url"/>
+<meta content="" property="og:image"/>
+<meta content="Timothy O'Toole's Pub" property="og:site_name"/>
+<meta content="
+Timothy O&amp;#39;Toole&amp;#39;s Chicago has a great selection of craft beer, cocktails and spirits combining local favorites and craft cocktails. " property="og:description"/>
+<link href="/assets/css/plugins/plugins.css" rel="stylesheet"/>
+<link href="/assets/revolution/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/css/style.css" rel="stylesheet"/>
+<link href="/assets/css/custom.css" rel="stylesheet">
+<link href="/bundles/styles?v=sz1QFLPqrMFj5C-3r5HeXp6MUYAAh2MI8X0EKzTsTZc1" rel="stylesheet"/>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</link></link></meta></meta></meta></head>
+<body>
+<div id="preloader">
+<div id="preloader-inner"></div>
+</div>
+<input name="__RequestVerificationToken" type="hidden" value="sYaSQ2jWoFzCzcmLWWcZAXMbtxrYZN45TV7IIajP9MYrKNUUI9lNZ0njxtV-m-g92fkld3EkNi0E-can0HgdrX1yiJwn0oIadjECuSaCM9qQ82fqCYPstRwr-FGMAqK1XIVlW6mKcKW07a4FB1IFIdtY3_I0hrgTXRwkBZRI7381"/>
+<header class="header header-top-transparent">
+<div class="top-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-6 hidden-sm-down">
+<ul class="list-inline">
+<li class="list-inline-item"><span class="header-location"><b>CHICAGO</b>: 622 N. Fairbanks Ct. Chicago, IL 60611 • (312) 642-0700</span></li>
+</ul>
+</div>
+<div class="col-sm-6 text-right">
+<ul class="list-inline">
+<li class="list-inline-item"><a href="/gurnee"><i class="ion-ios-location"></i><span class="header-location">Gurnee</span></a></li>
+<li class="list-inline-item"><a href="/libertyville"><i class="ion-ios-location"></i><span class="header-location">Libertyville</span></a></li>
+<li class="list-inline-item"><a href="/lake-villa"><i class="ion-ios-location"></i><span class="header-location">Lake Villa</span></a></li>
+<li class="list-inline-item"><a href="https://www.facebook.com/TimothyOToolesPub" target="_blank"><i class="ion-social-facebook"></i></a></li>
+<li class="list-inline-item"><a href="https://twitter.com/TimmyOTooles" target="_blank"><i class="ion-social-twitter"></i></a></li>
+<li class="list-inline-item"><a href="http://instagram.com/timmyotooles" target="_blank"><i class="ion-social-instagram"></i></a></li>
+<li class="list-inline-item"><a href="http://www.youtube.com/channel/UCRrvlUMwqSNLQrR0pEeEEjA" target="_blank"><i class="ion-social-youtube"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--main navigation-->
+<nav class="navbar navbar-light navbar-toggleable-md navbar-static-top sticky-header">
+<div class="container">
+<div class="navbar-header">
+<button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right collapsed" data-target="#navbarNavDropdown" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<a class="navbar-brand" href="http://www.timothyotooles.com/chicago" title="Timothy O'Toole's Pub - Chicago">
+<img alt="logo" class="img-responsive" src="/images/logos/CHICAGO-LOGO-white.png"/>
+<img alt="Timothy O'Toole's Pub - Chicago" class="logo-scroll img-responsive" src="/images/logos/chicsgo-header-dark.png"/>
+</a>
+</div>
+<div class="collapse navbar-collapse" id="navbarNavDropdown">
+<ul class="navbar-nav ml-auto">
+<li class="dropdown nav-item">
+<a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button">Drinks <span class="caret"></span></a>
+<ul class="dropdown-menu dropdown-menu-right">
+<li><a class="dropdown-item" href="/chicago/drinks/3006/Timothy-O-Toole-s-Chicago-Beer-Menu">Timothy O'Toole's Chicago Beer Menu</a></li>
+<li><a class="dropdown-item" href="/chicago/drinks/8011/Happy-Hour-Specials">Happy Hour Specials</a></li>
+<li><a class="dropdown-item" href="/chicago/drinks/15762/Summer-Cocktail-Menu">Summer Cocktail Menu</a></li>
+<li><a class="dropdown-item" href="/chicago/drinks/11985/Daily-Specials">Daily Specials </a></li>
+<li><a class="dropdown-item" href="/chicago/drinks/11974/Wine-Menu">Wine Menu</a></li>
+<li><a class="dropdown-item" href="/chicago/drinks/11914/Cocktails">Cocktails</a></li>
+</ul>
+</li>
+<li class="dropdown nav-item">
+<a aria-expanded="false" aria-haspopup="false" class="nav-link" href="/chicago/food/" role="button">Food<span class="caret"></span></a>
+</li>
+<li class="dropdown nav-item">
+<a aria-expanded="false" aria-haspopup="false" class="nav-link" href="/chicago/events/2018/December" role="button">Events<span class="caret"></span></a>
+</li>
+<li class="dropdown nav-item">
+<a aria-expanded="false" aria-haspopup="false" class="nav-link" href="/chicago/private-events/" role="button">Private Events<span class="caret"></span></a>
+</li>
+<li class="dropdown nav-item">
+<a aria-expanded="false" aria-haspopup="false" class="nav-link" href="/chicago/contact-us/" role="button">Contact Us<span class="caret"></span></a>
+</li>
+<li class="dropdown nav-item">
+<a aria-expanded="false" aria-haspopup="false" class="nav-link" href="/chicago/store/" role="button">Store<span class="caret"></span></a>
+</li>
+</ul>
+</div>
+<div class="float-right cart-nav nav-item">
+<div class="dropdown" id="cartNavigation">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" role="button">
+<i class="ion-ios-cart"></i>
+<span class="badge badge-primary" data-bind="text: $data.cartProducts().length"></span>
+</a>
+<!-- ko if: $data.cartProducts().length > 0 -->
+<ul class="dropdown-menu dropdown-menu-right dropdown-cart">
+<li>
+<ul class="list-unstyled">
+<!-- ko foreach: $data.cartProducts() -->
+<li class="clearfix" data-bind="attr: { id: 'container_' + orderLine }">
+<a class="float-left" data-bind="attr: { href: productUrl }" href="#">
+<img alt="" class="img-fluid" data-bind="attr: { src: productImage, alt: productName }" src="" width="60"/>
+</a>
+<div class="oHidden">
+<span class="close" data-bind="event: { click: function () { removeItem(true); $parent.removeCartItem(); } }"><i class="ion-ios-close-outline"></i></span>
+<h4><a data-bind="attr: { href: productUrl }" href="#"><span data-bind="text: productName"></span></a></h4>
+<p class="text-white-gray">
+<strong>$<span data-bind="text: productPrice"></span></strong> x <span data-bind="text: updatedQuantity"></span>
+</p>
+</div>
+</li>
+<!-- /ko -->
+<!-- ko if: $data.cartProducts().length > 0 -->
+<li class="clearfix">
+<div class="float-right">
+<a class="btn btn-primary" href="/chicago/store/checkout">Checkout</a>
+</div>
+<h4 class="text-white">
+<small>Subtotal - </small> $<span data-bind="text: $root.cartTotal()"></span>
+</h4>
+</li>
+<!-- /ko -->
+</ul>
+</li>
+</ul>
+<!-- /ko -->
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="page-breadcrumb" style="background: url('https://s3-us-west-2.amazonaws.com/otooles-media/1242/slider-1.jpg') no-repeat; background-attachment: fixed; background-size: cover; background-position: 0 0;">
+<div class="container text-center">
+<h1>Timothy O'Toole's Chicago Beer Menu</h1>
+</div>
+</div>
+<div class="space-80" id="interior-header-spacing"></div>
+<div class="container">
+<div id="menu-container">Timothy O'Toole's Chicago has a great selection of craft beer, cocktails and spirits with a combination of local favorites and inspired cocktails created by our bartenders.</div>
+<div class="space-80"></div>
+<ul class="menu-filter-list list-inline margin-b-40 text-center">
+<li class="is-checked margin-b-3" data-filter=".116703">Happy Hour</li>
+<li class="margin-b-3" data-filter=".9220">Draft Beer</li>
+<li class="margin-b-3" data-filter=".8999">Bottles and Cans</li>
+</ul>
+<div class="row menu-filter-items">
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="12th of Never Ale" class="img-fluid" src="https://labels.untappd.com/labels/1613790" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The magical, mystical 12th of Never is a blend of Old and New School hops that play bright citrus, rich coconut, and papaya-esque flavors, all on a solid stage of English puffed wheat. Tropically hoppy. Light, yet full-bodied. Bright and citrusy. The 12th of Never Ale is everything we’ve learned about making hop-forward beer expressed in a moderate voice.  Pale, cold, slightly alcoholic and bitter.  It’s all we know.">12th of Never Ale</a> <span>5.5 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Anchor Gold" class="img-fluid" src="https://labels.untappd.com/labels/2009599" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Anchor Gold</a> <span>4 abv</span></h4>
+<p>Anchor Brewing Company (San Francisco, CA) | Golden Ale</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Blood Orange Blonde" class="img-fluid" src="https://labels.untappd.com/labels/2039102" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We are excited to present our refreshingly unique craft-brew, Anchor’s Blood Orange Blonde™. The delectable fruit of the blood orange—deep crimson in color, with enticingly rich aroma and tangy-sweet juiciness—provides a distinctive twist to this blonde ale. Blood Orange Blonde™ gets some of its citrusy aroma in the brewhouse, where California orange peels are added to the brewkettle. Most of the action, however, is in the cellar, where the blood orange fruit (we use the Sanguinello cultivar) is added during secondary fermentation. Its taste combines the succulent complexity of blood oranges with mild hop bitterness, subtle malty sweetness, and a long, dry finish.">Blood Orange Blonde</a> <span>4.5 abv</span></h4>
+<p>Anchor Brewing Company (San Francisco, CA) | Blonde Ale</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Breck Lager" class="img-fluid" src="https://labels.untappd.com/labels/198600" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Breck Lager is a delightfully crisp standard American Lager. Clean and bright with the color of sunflowers, it greets you with a soft, malty, sweet aroma that's grounded by  hints of grains and earth. The light maltiness comes through in flavor as well, which gives Breck Lager its satisfying body. Subtle hop character leaves a pleasant, dry finish that invites the next sip.  ">Breck Lager</a> <span>4.5 abv</span></h4>
+<p>Breckenridge Brewery (Littleton, CO) | Lager - American Amber / Red</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Carlsberg" class="img-fluid" src="https://labels.untappd.com/labels/5991" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Probably the best beer in the world, and the flagship brand in Carlsberg Group's portfolio. A regular in millions of bars across 140 countries worldwide, it is a truly international beer brand.
+
+Hordeum vulgare. That’s the Latin name for barley, but there’s nothing vulgar about it. In fact, it is a rather special malting barley we use. We have our own Barley Breeding Group, which works in close contact with our brewmasters.
+
+The group selects the barley with the best traits and grows it in our research fields, using only traditional breeding methods, 100% free of genetic modifications. Considering that Carlsberg is made from 100% pure malt i.e. no adjuncts it could take some years before we breed the necessary amount of barley. Probably worth the effort.
+
+Hops are our secret ingredient. Of course it is no secret that we use hops in our beer, but the types we use are prepared according to a secret recipe that’s exclusive to us. It’s called the Carlsberg Aroma Hop Extract and nobody but us at Carlsberg can use it. After all, there can only be one best beer in the world.
+
+Yeast is at the heart of our history. In 1879, Carlsberg was the first brewery to produce a purified brewer’s yeast, the Saccharomyces Carlsbergensis. Since then we’ve been constantly working to improve our yeast’s taste and the stability of our beer. We do it by using a classic breeding method, which means it can take up to 20 trials and several years to obtain a new yeast strain that’s good enough for brewing">Carlsberg</a> <span>5 abv</span></h4>
+<p>Carlsberg Group (Copenhagen) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Centennial IPA" class="img-fluid" src="https://labels.untappd.com/labels/1456" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Bask in the head’s floral bouquet. Relish citrus accents from dry hopping. Sweet, yet balanced, with a finish that never turns too bitter.">Centennial IPA</a> <span>7.2 abv</span></h4>
+<p>Founders Brewing Co. (Grand Rapids, MI) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Dayblazer" class="img-fluid" src="https://labels.untappd.com/labels/1732512" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A deliciously refreshing golden ale, at 4.8% ABV, brewed with the finest malts and hops giving a sweet, crisp citrus finish with just a hint of honey. Available in 12-oz. and 24-oz. cans.">Dayblazer</a> <span>4.8 abv</span></h4>
+<p>New Belgium Brewing Company (Fort Collins, CO) | Golden Ale</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Dirty Bastard" class="img-fluid" src="https://labels.untappd.com/labels/1013" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Dark ruby in color. Brewed with seven varieties of imported malts. Complex, with hints of smoke and peat, malty richness and a right hook of hops.">Dirty Bastard</a> <span>8.5 abv</span></h4>
+<p>Founders Brewing Co. (Grand Rapids, MI) | Scotch Ale / Wee Heavy</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Hop Hash Easy IPA" class="img-fluid" src="https://labels.untappd.com/labels/1414175" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We kept the malt bill light to allow the hops to shine through. We dosed this sucker with a boatload of Amarillo Hop Hash. Pungent with floral, tropical citrus fruit flavors, and the hop hash gives it that one of a kind chewy, gooey, resiny mouthfeel. As the chaser, we are giving it a hefty dry hop to enhance the potent aromas. Ahtanum gives it orange and grapefruit tones, Crystal for a little kick of spiciness, and El Dorado bringing some pear and watermelon characteristics.
+
+Malts: Maris Otter, Pilsner, Wheat, Midnight Wheat
+Hops: Bravo, Amarillo Hop Hash
+Dry Hops: Ahtanum, El Dorado, Crystal
+
+KEEP ON KEEPIN' ON">Hop Hash Easy IPA</a> <span>4.2 abv</span></h4>
+<p>SweetWater Brewing Company  (Atlanta, GA) | IPA - Session / India Session Ale</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Mango Wheat" class="img-fluid" src="https://labels.untappd.com/labels/1383400" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We are excited to present our refreshingly unique craft-brew, Anchor’s Mango Wheat™; an ale made with sunripened
+mangoes. Mangoes (Mangifera indica) are native to southern Asia, but Californians have enjoyed fresh
+mangoes since the 1850s. In 1857, Wide West reported that the mango “is at once the richest and most delicate
+of all fruits, and all other fruits are comparatively insipid beside its intensity of taste. There is something in it which
+is nothing less than voluptuous.” Anchor’s Mango Wheat is a crisply refreshing, effervescent, golden ale that
+highlights the delectable character of this singular fruit: Brightness without sharpness, fullness of flavor without
+heaviness, tropical aroma without pungency, and complexity without cacophony.">Mango Wheat</a> <span>4.5 abv</span></h4>
+<p>Anchor Brewing Company (San Francisco, CA) | Fruit Beer</p>
+</div>
+</div>
+</div>
+<div class=" 116703 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Primus" class="img-fluid" src="https://labels.untappd.com/labels/31870" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Appearance:
+Clear, light-blond in colour with a fine head.
+ 
+Bouquet:
+Delicate hoppy aromas
+ 
+Flavour:
+Initially slightly sweet with a touch of bitterness. Then comes the dry and thirst- slaking aftertaste. A balanced taste.
+ ">Primus</a> <span>5.2 abv</span></h4>
+<p>Brouwerij Haacht Brasserie (Boortmeerbeek, Vlaams Brabant) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="10 Lords-A-Leaping" class="img-fluid" src="https://labels.untappd.com/labels/2310520" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Wassail is known for warmth and spices. The tenth verse of our Twelve Beers of Christmas™ saga goes leaps and bounds beyond a traditional winter warmer, drawing inspiration from the dark, spiced ales from Belgium and our love for experimental brewing in SoCal. 10 Lords-A-Leaping is a dark imperial wit ale featuring 10 different spices - coriander, orange peel, cinnamon, ginger, nutmeg, allspice, mace, anise, dried apples and cloves, which complement the spiced notes imparted from the yeast and prance upon the rich, dark fruited character of the specialty malts.">10 Lords-A-Leaping</a> <span>10.5 abv</span></h4>
+<p>The Bruery (Placentia, CA) | Belgian Strong Dark Ale</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="312 Urban Wheat Ale" class="img-fluid" src="https://labels.untappd.com/labels/5925" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Inspired by the city of Chicago and densely populated with flavor, 312’s spicy aroma of Cascade hops is followed by a crisp, fruity ale flavor delivered in a smooth, creamy body that's immensely refreshing.">312 Urban Wheat Ale</a> <span>4.2 abv</span></h4>
+<p>Goose Island Beer Co. (Chicago, IL) | Pale Wheat Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="All Day IPA" class="img-fluid" src="https://labels.untappd.com/labels/36834" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Satisfies your tastes while keeping your senses sharp. Brewed with a complex array of ingredients. Balanced for optimal aromatics and a clean finish. ">All Day IPA</a> <span>4.7 abv</span></h4>
+<p>Founders Brewing Co. (Grand Rapids, MI) | IPA - Session / India Session Ale</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Alpha Klaus" class="img-fluid" src="https://labels.untappd.com/labels/5411" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Alpha King's festive cousin. A big American Xmas Porter brewed with English chocolate malt, Mexican sugar and, of course, tons of strange American hops.">Alpha Klaus</a> <span>6 abv</span></h4>
+<p>3 Floyds Brewing Company (Munster, IN) | Porter - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Anti-Hero" class="img-fluid" src="https://labels.untappd.com/labels/9275" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship IPA is supremely aromatic, crisp, and drinkable. This iconic ale features a blend of Warrior, Chinook, Centennial, and Amarillo to create a crisp clean bitterness and imparts massive floral and citrus aromas. 
+An American hop assault for all the ambivalent warriors who get the girl in the end. “Look, I ain't in this for your revolution, and I'm not in it for you, Princess.” ">Anti-Hero</a> <span>6.7 abv</span></h4>
+<p>Revolution Brewing Company (Chicago, IL) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Barrel Aged Neapolitan Milk Stout" class="img-fluid" src="https://labels.untappd.com/labels/597602" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Aged 9 months in a combination of Woodford Reserve and Heaven Hill barrels.">Barrel Aged Neapolitan Milk Stout</a> <span>10.5 abv</span></h4>
+<p>Saugatuck Brewing Company (Douglas, MI) | Stout - Milk / Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Belgian White" class="img-fluid" src="https://labels.untappd.com/labels/3839" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Blue Moon Belgian White, Belgian-style wheat ale, is a refreshing, medium-bodied, unfiltered Belgian-style wheat ale spiced with fresh coriander and orange peel for a uniquely complex taste and an uncommonly smooth finish.">Belgian White</a> <span>5.4 abv</span></h4>
+<p>Blue Moon Brewing Company (Denver, CO) | Witbier</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Benthic" class="img-fluid" src="https://labels.untappd.com/labels/1691923" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Barrel Aged Imperial Stout with coffee and coconut. ">Benthic</a> <span>14 abv</span></h4>
+<p>Half Acre Beer Company (Chicago, IL) | Stout - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Berliner Weisse Cranberry-Quince" class="img-fluid" src="https://labels.untappd.com/labels/2267045" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Berliner Weisse Cranberry-Quince</a> <span>4.1 abv</span></h4>
+<p>North Coast Brewing Company (Fort Bragg, CA) | Sour - Berliner Weisse</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Big Bad Baptista" class="img-fluid" src="https://labels.untappd.com/labels/1790957" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Big Bad Baptista is inspired by traditional Mexican coffee, Café de Olla, which is served with cinnamon and piloncillo, an unrefined sugar. The Cinnamon adds another layer of complexity and accentuates the earthy character of Mexican Coffee, but more importantly, it captures the essence of a place and its culture.">Big Bad Baptista</a> <span>11.7 abv</span></h4>
+<p>Epic Brewing Co. (Utah, Colorado) (Salt Lake City, UT) | Stout - American Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Black Chocolate Stout" class="img-fluid" src="https://labels.untappd.com/labels/37235" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Brewed since 1994, our Black Chocolate Stout has itself become a modern classic, heralded the world over. It achieves its dark chocolate aroma and flavour through the artful blending of six malts and three distinct mashes. ">Black Chocolate Stout</a> <span>10 abv</span></h4>
+<p>Brooklyn Brewery (Brooklyn, NY) | Stout - Russian Imperial</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Breakfast Stout" class="img-fluid" src="https://labels.untappd.com/labels/4589" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The coffee lover’s consummate beer. Brewed with an abundance of flaked oats, bitter and imported chocolates, and Sumatra and Kona coffee, this stout has an intense fresh-roasted java nose topped with a frothy, cinnamon-colored head that goes forever.">Breakfast Stout</a> <span>8.3 abv</span></h4>
+<p>Founders Brewing Co. (Grand Rapids, MI) | Stout - Oatmeal</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Brown Shugga'" class="img-fluid" src="https://labels.untappd.com/labels/4740" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Lagunitas Brewing Company
+Originally a failed attempt at a 1997 batch of Olde GnarlyWine Ale resulting in an all-new-beer-style we like to call…Irresponsible.">Brown Shugga'</a> <span>10 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | Strong Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Bud Light" class="img-fluid" src="https://labels.untappd.com/labels/3784" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Bud Light is brewed using a blend of premium aroma hop varieties, both American-grown and imported, and a combination of barley malts and rice. Its superior drinkability and refreshing flavor makes it the world’s favorite light beer.">Bud Light</a> <span>4.2 abv</span></h4>
+<p>Anheuser-Busch (St. Louis, MO) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Christmas Ale" class="img-fluid" src="https://labels.untappd.com/labels/7472" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A holiday ale brewed with honey and spiced with fresh ginger and cinnamon.">Christmas Ale</a> <span>7.5 abv</span></h4>
+<p>Great Lakes Brewing Company (Cleveland, OH) | Winter Ale</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Coors Light" class="img-fluid" src="https://labels.untappd.com/labels/3834" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\&quot; as sales climbed.&quot;">Coors Light</a> <span>4.2 abv</span></h4>
+<p>Coors Brewing Company (Golden, CO) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Crisp Apple" class="img-fluid" src="https://labels.untappd.com/labels/84251" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A crisp and refreshing cider, its fresh apple aroma and slightly sweet, ripe apple flavor make it hard to resist.">Crisp Apple</a> <span>5 abv</span></h4>
+<p>Angry Orchard Cider Company (Walden, NY) | Cider - Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Dale's Pale Ale" class="img-fluid" src="https://labels.untappd.com/labels/10759" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This voluminously hopped mutha delivers a hoppy nose and assertive-but-balanced flavors of pale malts and citrusy floral hops from start to finish. Oskar Blues launched its canning ops in 2002, brewing and hand-canning Dale’s Pale Ale in the Lyons, Colorado, brewpub. America’s first-craft-canned mountain pale is a hearty, critically acclaimed trailblazer that changed the way craft beer fiends perceive portable beer 
+">Dale's Pale Ale</a> <span>6.5 abv</span></h4>
+<p>Oskar Blues Brewery (Longmont, CO) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Delirium Noël / Christmas" class="img-fluid" src="https://labels.untappd.com/labels/8767" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title='Brewed only for the Christmas and New Year, Noël complete the "Delirium" trilogy. Its appearance is a superb warm copper to red color, recalling "Nocturnum" except in its taste. It hides its subtlety by multiple levels of flavor and should be approached with confidence, with a tinge typical Christmas, sauced with a sweet touch, then bitterness.'>Delirium Noël / Christmas</a> <span>10 abv</span></h4>
+<p>Huyghe Brewery (Melle, Oost-Vlaanderen) | Winter Ale</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Delirium Red" class="img-fluid" src="https://labels.untappd.com/labels/33040" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Colour and sight: Deep dark red colour, with a light pink, compact and lacing head.
+Scent: Soft fruity aroma, with hints of almond and mildly sour cherries.
+Flavour: Sweet and fruity, with a nice balance between sweet and sour. An excellent dessert beer.">Delirium Red</a> <span>8 abv</span></h4>
+<p>Huyghe Brewery (Melle, Oost-Vlaanderen) | Fruit Beer</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Fairy Basslet" class="img-fluid" src="https://labels.untappd.com/labels/1542581" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Duuuuuuuuuuude...whoa.  Check out that fish over there that lives in that like coral reef. He's crazy lookin'! Duuuuude. Man... you ever really think about how many fish there are like in the sea? There's so many fish in the sea, brah! It like blows my mind. Huh? Metaphor? Meta-what? No duuuuude, I'm like being literal here. There's like so many different types of fish. We're like snowflakes, man. Now that's a metaphor, man - actually specifically a simile.  like literally know my literary devices, brah. (Imperial IPA brewed with Honey, pineapple juice and citra hops)">Fairy Basslet</a> <span>9.5 abv</span></h4>
+<p>Pipeworks Brewing Company (Chicago, IL) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Firestone Lager" class="img-fluid" src="https://labels.untappd.com/labels/2436231" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We created our first Firestone Lager in 2000, and it proved to be well ahead of its time. Now it's back, new and improved, for those who finally want a better lager.
+
+In a craft world dominated by hoppy beers, we have gone back to basics with Firestone Lager. this is our hardest beer to make--and our easiest one to drink. Made in the classic all-malt Munich Helles style, Firestone Lager demands technical perfection from our brewing team, with a transparent canvas that would otherwise reveal the smallest flaw. Gambrinus pilsner malt establishes a crisp, dry base with a soft mouthfeel, while noble German hops provide just a whisper of bitterness. The result is an impossibly smooth and immensely drinkable beer that aims to help redefine American Lager. 
+
+In the words of Brewmaster Matt Brynildson, &quot;Firestone Lager is made for drinking, not thinking.  It's all about enjoying a good, clean beer.&quot;">Firestone Lager</a> <span>4.5 abv</span></h4>
+<p>Firestone Walker Brewing Company (Paso Robles, CA) | Lager - Helles</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Foggy Geezer" class="img-fluid" src="https://labels.untappd.com/labels/1888551" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Hazy India Pale Ale">Foggy Geezer</a> <span>6.8 abv</span></h4>
+<p>WarPigs Brewpub (Copenhagen) | IPA - New England</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Fun Size" class="img-fluid" src="https://labels.untappd.com/labels/1763887" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="You’re not you when you’re thirsty, so satisfy that craving with a fun sized treat. This Milk Stout is like having Halloween on Christmas, so don’t be ashamed to drink your dessert before dinner. Whatever your candy fancy may be, enjoy this ‘lil delight. Brewed with a hefty amount of lactose milk sugar and sticky oats, we threw in a whole bunch of peanuts, vanilla beans, cocoa nibs, and sea salt because, well, size truly does matter sometimes.">Fun Size</a> <span>6.1 abv</span></h4>
+<p>Pollyanna Brewing Company (Lemont, IL) | Stout - Milk / Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Guinness Draught" class="img-fluid" src="https://labels.untappd.com/labels/4473" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Swirling clouds tumble as the storm begins to calm. Settle. Breathe in the moment, then break through the smooth, light head to the bittersweet reward.
+
+Unmistakeably GUINNESS, from the first velvet sip to the last, lingering drop. And every deep-dark satisfying mouthful in between.
+
+Pure beauty. Pure GUINNESS.
+
+Guinness Draught is sold in kegs, widget cans, and bottles. The ABV varies from 4.1 to 4.3%.
+
+Guinness Extra Cold is the exact same beer only served through a super cooler at 3.5 °C">Guinness Draught</a> <span>4.2 abv</span></h4>
+<p>Guinness (St. James's Gate, Dublin) | Stout - Irish Dry</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Harp Premium Lager" class="img-fluid" src="https://labels.untappd.com/labels/3948" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The best selling premium irish import lager in the world today.  This rich, golden pilsner style lager, with a smooth, refreshing hoppy taste, is brewed the irish way, using only the finest barley and pure spring water from the Cooley Mountains of Dundalk, Ireland.">Harp Premium Lager</a> <span>4.5 abv</span></h4>
+<p>Guinness (St. James's Gate, Dublin) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Heineken" class="img-fluid" src="https://labels.untappd.com/labels/5860" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Heineken is a 5% ABV euro pale lager, made by Heineken International since 1873. It is available in a 4.3% alcohol by volume, in countries such as Ireland. It is the flagship product of the company and is made of purified water, malted barley, hops, and yeast. In 1886 H. Elion finished the development of the Heineken A-yeast. This is the yeast that is still used for the beer. The beer is force carbonated. It is popular in the United States, Europe and Middle Eastern countries.">Heineken</a> <span>5 abv</span></h4>
+<p>Heineken (Zoeterwoude, Zuid Holland) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen" class="img-fluid" src="https://labels.untappd.com/labels/7834" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Die obergärige „Münchner Weisse“ ist der Geheimtipp für alle Weißbier­genießer, die spritzige, prickelnde Erfrischung schätzen. Hell bernsteinfarben mit einer cremigen Schaumkrone und einem harmonisch fruchtigen Bukett entfaltet sich „Münchner Weisse“ mit einem Alkoholgehalt von 5,1% Vol. im Glas. Ihr Geschmack ist feinhefig, spritzig, aromatisch-estrig und mit einem mild-süßlichen Ausklang. Ein erfrischendes Vergnügen!">Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen</a> <span>5.1 abv</span></h4>
+<p>Staatliches Hofbräuhaus München (München) | Hefeweizen</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="IPA" class="img-fluid" src="https://labels.untappd.com/labels/4509" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This is our unique version of an ancient style. A style as old as the ocean trade routes of the last centuries Great Ships. Not as old as the equator they had to cross twice enroute. 
+
+Lagunitas IPA was our first seasonal way back in 1995. The recipe was formulated with malt and hops working together to balance it all out on your ‘buds so you can knock back more than one without wearing yourself out. Big on the aroma with a hoppy-sweet finish that’ll leave you wantin’ another sip.">IPA</a> <span>6.2 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Kidnapped by Vikings" class="img-fluid" src="https://labels.untappd.com/labels/173672" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Bursting with fresh hop aroma, our American IPA has a light malty sweetness to balance the dominant, pine/citrus hop presence.">Kidnapped by Vikings</a> <span>6 abv</span></h4>
+<p>Solemn Oath Brewery (Naperville, IL) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Krombacher Dark" class="img-fluid" src="https://labels.untappd.com/labels/49132" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Krombacher Dark</a> <span>4.7 abv</span></h4>
+<p>Krombacher Gruppe (Kreuztal, Nordrhein-Westfalen) | Schwarzbier</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Miller Lite" class="img-fluid" src="https://labels.untappd.com/labels/3811" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship brand, Miller Lite, is the great tasting, less filling beer that defined the American light beer category in 1975. We deliver a clear, simple message to consumers: \Miller Lite is the better beer choice.\&quot; What's our proof? 
+1) Miller Lite is the original light beer. 
+2) Miller Lite has real beer taste because it's never watered down. 
+3) Miller Lite is the only beer to win four gold awards in the World Beer Cup for best American-style light lager. (2006">Miller Lite</a> <span>4.2 abv</span></h4>
+<p>Miller Brewing Company (Milwaukee, WI) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Modelo Especial" class="img-fluid" src="https://labels.untappd.com/labels/6277" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Modelo Especial, a pilsener type beer, was introduced to the market in 1966. Today it is sold in glass bottles as well as cans, which are having an increasing demand due to consumer preferences, making Modelo Especial the leader in the can segment in Mexico.
+Grupo Modelo says it is a Pilsner, though RB states it is a Pale Lager and BA a American Adjunt Lager.">Modelo Especial</a> <span>4.5 abv</span></h4>
+<p>Grupo Modelo (Mexico City, Distrito Federal) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Movembeer 2018" class="img-fluid" src="https://labels.untappd.com/labels/2928263" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We teamed up with our friends at Imperial Oak Brewing and brought back our Movembeer Double Oatmeal Stout collaboration as part of our yearly Movember fundraiser for men's health awareness. This year, each of us brewed the same base beer and added a different ingredient to the silky smooth double oatmeal stout base. Our version has Chocolate, Vanilla, and Orange and theirs has Cinnamon and Cashew. Check them both out and get your MO’ growing!">Movembeer 2018</a> <span>9 abv</span></h4>
+<p>Pollyanna Brewing Company (Lemont, IL) | Stout - Imperial Oatmeal</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Nitro Chocolate Camaro" class="img-fluid" src="https://labels.untappd.com/labels/2953208" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Brewed with lactose and cacao. Nitro version gives this Half Acre staple a silky body.">Nitro Chocolate Camaro</a> <span>6 abv</span></h4>
+<p>Half Acre Beer Company (Chicago, IL) | Stout - Milk / Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Ohio City Oatmeal Stout" class="img-fluid" src="https://labels.untappd.com/labels/16504" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A smooth and creamy medium-bodied stout with soft malty notes and dry finish.">Ohio City Oatmeal Stout</a> <span>5.4 abv</span></h4>
+<p>Great Lakes Brewing Company (Cleveland, OH) | Stout - Oatmeal</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Parka Porter" class="img-fluid" src="https://labels.untappd.com/labels/2798181" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="With mild roast on the palate from chocolate malts and balance from caramel malts, we’ve brewed an approachable and rounded porter for our winter seasonal.">Parka Porter</a> <span>5.3 abv</span></h4>
+<p>Goose Island Beer Co. (Chicago, IL) | Porter - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Pseudo Sue" class="img-fluid" src="https://labels.untappd.com/labels/65644" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This single hop pale ale showcases the Citra hop for a well balanced beer that is delicate in body with a mild bitterness in the finish. Ferocious hop aromas of citrus and mango give a refreshing taste that is bright with just enough bite!">Pseudo Sue</a> <span>6.8 abv</span></h4>
+<p>Toppling Goliath Brewing Co. (Decorah, IA) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Sam ‘76" class="img-fluid" src="https://labels.untappd.com/labels/2325896" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="By experimenting with both lager and ale yeast strains, the brewers at Sam Adams came up with the concept for a brand new beer – Sam ’76. This truly unique brew takes two active fermentations and blends them together to create a deliciously harmonious result. This process delivers a distinct flavor that showcases the slight fruitiness of an ale with the balanced drinkability and smoothness of a lager. Sam ’76 will surprise any craft beer lover with its huge flavor and aroma along with a light-bodied, refreshing crispness. At just 4.7% ABV, this brew is perfect for those sessionable occasions. Cascade, Citra, Mosaic, Simcoe and Galaxy hops impart a tropical citrus aroma that gives way to a bright, juicy citrus hop flavor but without the hop bitterness. The brewers have been experimenting for over a year, tested over 60 iterations with multiple combinations of 12 different hop varieties in the nano brewery in Boston in order to perfect the Sam ’76 recipe.">Sam ‘76</a> <span>4.7 abv</span></h4>
+<p>Boston Beer Company (Boston, MA) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Samuel Adams Boston Lager" class="img-fluid" src="https://labels.untappd.com/labels/3914" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Samuel Adams Boston Lager® is the best example of the fundamental characteristics of a great beer, offering a full, rich flavor that is both balanced and complex. It is brewed using a decoration mash, a time consuming, traditional four vessel brewing process discarded by many contemporary brewers. This process brings forth a rich sweetness from the malt that makes it well worth the effort. Samuel Adams Boston Lager® also uses only the finest of ingredients including two row barley, as well as German Noble aroma hops. The exclusive use of two row barley not only imparts a full, smooth body but also gives the beer a wide spectrum of malt flavor ranging from slightly sweet to caramel to slightly roasted. The Noble hops varieties, Hallertau Mittelfruh and Tettnang Tettnanger, add a wide range of floral, piney and citrus notes, which are present from the aroma, through the flavor, to the lingering smooth finish. We take great pride in the Noble hops used in our beers. They are hand selected by Jim Koch and our other brewers from the world's oldest hops growing area. Among the world's most expensive, they cost twenty times as much as other hops.">Samuel Adams Boston Lager</a> <span>5 abv</span></h4>
+<p>Boston Beer Company (Boston, MA) | Lager - Vienna</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Samuel Adams Winter Lager" class="img-fluid" src="https://labels.untappd.com/labels/3919" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Bold and rich, with a touch of holiday spice
+The first thing one notices in a Samuel Adams® Winter Lager is its color: the deep brown of winter. Then comes the magical aroma which promises something special on the tongue. The warm aroma of cinnamon and ginger which blends with the toasty sweetness of the malted barley and hint of citrus.">Samuel Adams Winter Lager</a> <span>5.6 abv</span></h4>
+<p>Boston Beer Company (Boston, MA) | Lager - Winter</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Smithwick's" class="img-fluid" src="https://labels.untappd.com/labels/13388" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Smithwick's is a clear beer with a rich ruby color and creamy head. Clean and delicate aroma with different individual notes: from the top fermentation by the Smithwick yeast come aromatic esters creating a fruity aroma. The Aroma Hops added late in the boil contribute clean fresh floral notes. Ale Malt contributes aroma hints of biscuit and caramel. 
+Refreshing and clean taste with a gentle balance of bitterness from the hops added early in the boil, sweet/malty notes from the ale malt, and hints of roast/coffee from the roasted barley.  ">Smithwick's</a> <span>4.5 abv</span></h4>
+<p>Guinness (St. James's Gate, Dublin) | Red Ale - Irish</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Sosus" class="img-fluid" src="https://labels.untappd.com/labels/356357" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Sosus is crafted in humble tribute to the elegant works of mosaic art created by Sosus of Pergamon. We’ve showcased the Mosaic hop by draping it across a simplistic malt canvas, allowing you to experience the irresistible flavors of pineapple and tropical fruit for which the Mosaic hop is most well known.">Sosus</a> <span>7.8 abv</span></h4>
+<p>Toppling Goliath Brewing Co. (Decorah, IA) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Stella Artois" class="img-fluid" src="https://labels.untappd.com/labels/4010" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Stella Artois was first brewed as a Christmas beer in Leuven. It was named Stella from the star of Christmas, and Artois after Sebastian Artois, founder of the brewery. It is brewed to perfection using the original Stella Artois yeast and the celebrated Saaz hops. It is the optimum premium lager, with its full flavour and clean crisp taste.">Stella Artois</a> <span>5 abv</span></h4>
+<p>Stella Artois (Leuven, Vlaams-Brabant) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Thai Speedway Stout" class="img-fluid" src="https://labels.untappd.com/labels/2126415" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Inspired by our brewers' love of the assertive, bright flavors of Thai ingredients, this intensely flavored brew incorporates the vibrant quality of several Thai-inspired ingredients into our classic imperial stout. Powerful notes of citrus, botanicals, and tropical fruit balance the stout's rich chocolate, caramel, and coffee character. The result is an amazingly flavorful and complex beer that pays tribute to the flavors of Thailand.">Thai Speedway Stout</a> <span>12 abv</span></h4>
+<p>AleSmith Brewing Company (San Diego, CA) | Stout - American Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="White" class="img-fluid" src="https://labels.untappd.com/labels/5862" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Allagash White features a refreshing balance of citrus and spice. Wheat, coriander, and Curaçao orange peel round out the flavor of this pale straw-colored, hazy beer.">White</a> <span>5.2 abv</span></h4>
+<p>Allagash Brewing Company (Portland, ME) | Witbier</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Winter White Ale" class="img-fluid" src="https://labels.untappd.com/labels/7853" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Taking its cues from Belgian-style white ales, Bell's Winter White Ale offers a lighter yet abundantly flavorful alternative to the traditional heavy winter warmers. Fermented with a Belgian ale yeast, this blend of barley &amp; wheat malts yields a mixture of clove and fruity aromas, all without the use of any spices. Deliberately brewed to retain a cloudy appearance, Bell's Winter White Ale is a beer for embracing winter.">Winter White Ale</a> <span>5 abv</span></h4>
+<p>Bell's Brewery (Comstock, MI) | Witbier</p>
+</div>
+</div>
+</div>
+<div class=" 9220 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Zombie Dust" class="img-fluid" src="https://labels.untappd.com/labels/13559" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This intensely hopped and gushing undead Pale Ale will be one’s only respite after the zombie apocalypse. Created with our marvelous friends in the comic industry.">Zombie Dust</a> <span>6.2 abv</span></h4>
+<p>3 Floyds Brewing Company (Munster, IN) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="120 Minute IPA" class="img-fluid" src="https://labels.untappd.com/labels/3950" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The Holy Grail for hopheads! Clocking in at 15-20% ABV, 120 Minute IPA is continuously hopped with a copius amount of high-alpha American hops throughout the boil and whirlpool, and then dry-hopped with another pallet of hops. Unfiltered and abundently hoppy.  ">120 Minute IPA</a> <span>18 abv</span></h4>
+<p>Dogfish Head Craft Brewery (Milton, DE) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="12th of Never Ale" class="img-fluid" src="https://labels.untappd.com/labels/1613790" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The magical, mystical 12th of Never is a blend of Old and New School hops that play bright citrus, rich coconut, and papaya-esque flavors, all on a solid stage of English puffed wheat. Tropically hoppy. Light, yet full-bodied. Bright and citrusy. The 12th of Never Ale is everything we’ve learned about making hop-forward beer expressed in a moderate voice.  Pale, cold, slightly alcoholic and bitter.  It’s all we know.">12th of Never Ale</a> <span>5.5 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA" class="img-fluid" src="https://labels.untappd.com/labels/1781883" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="For our 14th Anniversary Ale, we traced our inspiration to British IPAs of the 1800s, creating an imperial, nay, Emperial IPA using all-British hops, malt and yeast. We even adjusted our Southwest U.S. water to summon that ageless IPA chemistry and royal sense of place. Cheers to an Encore reign for this mighty British-by-way-of-California-West-Coast IPA.">20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA</a> <span>8.9 abv</span></h4>
+<p>Stone Brewing (Escondido, CA) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="3rd Anniversary Ale" class="img-fluid" src="https://labels.untappd.com/labels/1247440" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Farmhouse Ale Brewed with Raspberries">3rd Anniversary Ale</a> <span>8.4 abv</span></h4>
+<p>Prairie Artisan Ales (Krebs, OK) | Saison / Farmhouse Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="420 Extra Pale Ale" class="img-fluid" src="https://labels.untappd.com/labels/5912" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="SweetWater 420 Extra Pale Ale, our most popular brew, is a tasty West Coast Style Pale Ale with a stimulating hop character and a crisp finish. 1st brewed on April 20th 1997.">420 Extra Pale Ale</a> <span>5.7 abv</span></h4>
+<p>SweetWater Brewing Company  (Atlanta, GA) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="A Little Sumpin' Sumpin' Ale" class="img-fluid" src="https://labels.untappd.com/labels/25796" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A truly unique style featuring a strong hop finish on a silky body. A filtered pale wheat ale that is great for both IPA and wheat beer fans.
+">A Little Sumpin' Sumpin' Ale</a> <span>7.5 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | Pale Wheat Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Alpha King" class="img-fluid" src="https://labels.untappd.com/labels/2743" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A bold yet balanced American Pale Ale with slight caramel sweetness and aggressive citrus hoppiness. This is our flagship beer.">Alpha King</a> <span>6.66 abv</span></h4>
+<p>3 Floyds Brewing Company (Munster, IN) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="American Monastic" class="img-fluid" src="https://labels.untappd.com/labels/1404667" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This beer features 7 premium hop varieties and a Belgian yeast strain. From the right to wear monk robes with stars and stripes, shamelessly eat greasy cheeseburgers and unrestricted use of the selfie stick, this beer represents the freedom to explore America.">American Monastic</a> <span>8.5 abv</span></h4>
+<p>Clown Shoes (Boston, MA) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Amstel" class="img-fluid" src="https://labels.untappd.com/labels/72160" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The distinctive, golden Amstel ® beer with its mildly bitter taste and excellent quality has become well known around the World.
+
+- Al sinds 1870 wordt Amstel Pilsener volmout gebrouwen met natuurlijke ingrediënten. Het resultaat is een helder goudgeel bier met een volle, toegankelijke smaak en een stevige schuimkraag. Het perfecte bier om te delen met vrienden.
+
+- Amstel 100% malta es el inicio de todo, nuestro máximo motivo de orgullo. Originaria de Ámsterdam, su receta hecha únicamente con ingredientes naturales se mantiene intacta desde 1870, conservando la tradición de los maestros cerveceros.">Amstel</a> <span>5 abv</span></h4>
+<p>Amstel Bier (Zoeterwoude, Zuid Holland) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Anti-Hero" class="img-fluid" src="https://labels.untappd.com/labels/9275" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship IPA is supremely aromatic, crisp, and drinkable. This iconic ale features a blend of Warrior, Chinook, Centennial, and Amarillo to create a crisp clean bitterness and imparts massive floral and citrus aromas. 
+An American hop assault for all the ambivalent warriors who get the girl in the end. “Look, I ain't in this for your revolution, and I'm not in it for you, Princess.” ">Anti-Hero</a> <span>6.7 abv</span></h4>
+<p>Revolution Brewing Company (Chicago, IL) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Arrogant Bastard Ale" class="img-fluid" src="https://labels.untappd.com/labels/18099" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This is an aggressive ale. You probably won’t like it. It is quite doubtful that you have the taste or sophistication to be able to appreciate an ale of this quality and depth. We would suggest that you stick to safer and more familiar territory–maybe something with a multi-million dollar ad campaign aimed at convincing you it’s made in a little brewery, or one that implies that their tasteless fizzy yellow beverage will give you more sex appeal. Perhaps you think multi-million dollar ad campaigns make things taste better. Perhaps you’re mouthing your words as you read this.">Arrogant Bastard Ale</a> <span>7.2 abv</span></h4>
+<p>Arrogant Consortia (Escondido, CA) | Strong Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Begyle Blonde" class="img-fluid" src="https://labels.untappd.com/labels/217197" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Begyle Blonde is a supremely easy-drinking American Blonde Ale with a faint estery profile balanced by slight bitterness.">Begyle Blonde</a> <span>5.4 abv</span></h4>
+<p>Begyle Brewing (Chicago, IL) | Blonde Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Blood of the Unicorn" class="img-fluid" src="https://labels.untappd.com/labels/175862" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="In this epic battle, the Blood of the Unicorn has been shed by the sword of the deadly assassin of the east. One sip of this aggressively hopped red ale clearly reveals what drives these, the greatest of, hop heads of lore. Is this the end of the mythical horned horse? Or will he rise like the phoenix to fight another day?">Blood of the Unicorn</a> <span>6.5 abv</span></h4>
+<p>Pipeworks Brewing Company (Chicago, IL) | Red Ale - American Amber / Red</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Blood Orange Blonde" class="img-fluid" src="https://labels.untappd.com/labels/2039102" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We are excited to present our refreshingly unique craft-brew, Anchor’s Blood Orange Blonde™. The delectable fruit of the blood orange—deep crimson in color, with enticingly rich aroma and tangy-sweet juiciness—provides a distinctive twist to this blonde ale. Blood Orange Blonde™ gets some of its citrusy aroma in the brewhouse, where California orange peels are added to the brewkettle. Most of the action, however, is in the cellar, where the blood orange fruit (we use the Sanguinello cultivar) is added during secondary fermentation. Its taste combines the succulent complexity of blood oranges with mild hop bitterness, subtle malty sweetness, and a long, dry finish.">Blood Orange Blonde</a> <span>4.5 abv</span></h4>
+<p>Anchor Brewing Company (San Francisco, CA) | Blonde Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Blood Orange Guppy" class="img-fluid" src="https://labels.untappd.com/labels/1784811" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Blood Orange Guppy</a> <span>4.6 abv</span></h4>
+<p>Pipeworks Brewing Company (Chicago, IL) | IPA - Session / India Session Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Blue Gold" class="img-fluid" src="https://labels.untappd.com/labels/307729" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Apple Blueberry Cider. When creating products from Michigan fruits it seems natural to include Michigan blueberries. They add a nice fruity flavor to the cider. Like our other hard ciders, this one is not too sweet or overpowering.">Blue Gold</a> <span>6.9 abv</span></h4>
+<p>Vander Mill (Spring Lake, MI) | Cider - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Blueberry Blonde" class="img-fluid" src="https://labels.untappd.com/labels/353173" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A unique light bodied ale infused with natural blueberries. The aromatic balance of blueberries and light hoppiness makes it the perfect summertime seasonal. ">Blueberry Blonde</a> <span>6 abv</span></h4>
+<p>Big Muddy Brewing (Murphysboro, IL) | Fruit Beer</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Breck Lager" class="img-fluid" src="https://labels.untappd.com/labels/198600" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Breck Lager is a delightfully crisp standard American Lager. Clean and bright with the color of sunflowers, it greets you with a soft, malty, sweet aroma that's grounded by  hints of grains and earth. The light maltiness comes through in flavor as well, which gives Breck Lager its satisfying body. Subtle hop character leaves a pleasant, dry finish that invites the next sip.  ">Breck Lager</a> <span>4.5 abv</span></h4>
+<p>Breckenridge Brewery (Littleton, CO) | Lager - American Amber / Red</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Brother Thelonious" class="img-fluid" src="https://labels.untappd.com/labels/410" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title='Like a Belgian "Dark Strong Ale," this beer is rich and robust with an ABV of 9.4%. The package features a label picturing the Jazz master himself, and comes in either a 375 or 750 ml bottle with a traditional cork and wire finish, or 12 oz. 4-packs.'>Brother Thelonious</a> <span>9.4 abv</span></h4>
+<p>North Coast Brewing Company (Fort Bragg, CA) | Belgian Strong Dark Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Bud Light" class="img-fluid" src="https://labels.untappd.com/labels/3784" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Bud Light is brewed using a blend of premium aroma hop varieties, both American-grown and imported, and a combination of barley malts and rice. Its superior drinkability and refreshing flavor makes it the world’s favorite light beer.">Bud Light</a> <span>4.2 abv</span></h4>
+<p>Anheuser-Busch (St. Louis, MO) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Budweiser" class="img-fluid" src="https://labels.untappd.com/labels/3783" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Known as &quot;The King of Beers,&quot; Budweiser was first introduced by Adolphus Busch in 1876 and it's still brewed with the same high standards today. Budweiser is a medium-bodied, flavorful, crisp American-style lager. Brewed with the best barley malt and a blend of premium hop varieties, it is an icon of core American values like optimism and celebration.">Budweiser</a> <span>5 abv</span></h4>
+<p>Anheuser-Busch (St. Louis, MO) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Carlsberg" class="img-fluid" src="https://labels.untappd.com/labels/5991" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Probably the best beer in the world, and the flagship brand in Carlsberg Group's portfolio. A regular in millions of bars across 140 countries worldwide, it is a truly international beer brand.
+
+Hordeum vulgare. That’s the Latin name for barley, but there’s nothing vulgar about it. In fact, it is a rather special malting barley we use. We have our own Barley Breeding Group, which works in close contact with our brewmasters.
+
+The group selects the barley with the best traits and grows it in our research fields, using only traditional breeding methods, 100% free of genetic modifications. Considering that Carlsberg is made from 100% pure malt i.e. no adjuncts it could take some years before we breed the necessary amount of barley. Probably worth the effort.
+
+Hops are our secret ingredient. Of course it is no secret that we use hops in our beer, but the types we use are prepared according to a secret recipe that’s exclusive to us. It’s called the Carlsberg Aroma Hop Extract and nobody but us at Carlsberg can use it. After all, there can only be one best beer in the world.
+
+Yeast is at the heart of our history. In 1879, Carlsberg was the first brewery to produce a purified brewer’s yeast, the Saccharomyces Carlsbergensis. Since then we’ve been constantly working to improve our yeast’s taste and the stability of our beer. We do it by using a classic breeding method, which means it can take up to 20 trials and several years to obtain a new yeast strain that’s good enough for brewing">Carlsberg</a> <span>5 abv</span></h4>
+<p>Carlsberg Group (Copenhagen) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Centennial IPA" class="img-fluid" src="https://labels.untappd.com/labels/1456" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Bask in the head’s floral bouquet. Relish citrus accents from dry hopping. Sweet, yet balanced, with a finish that never turns too bitter.">Centennial IPA</a> <span>7.2 abv</span></h4>
+<p>Founders Brewing Co. (Grand Rapids, MI) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Coors Banquet" class="img-fluid" src="https://labels.untappd.com/labels/3833" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title='Coors beer, first introduced by Adolph Coors in April 1874, is brewed in the Rockies for a uniquely crisp, clean, and drinkable "Mile High Taste".'>Coors Banquet</a> <span>5 abv</span></h4>
+<p>Coors Brewing Company (Golden, CO) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Coors Light" class="img-fluid" src="https://labels.untappd.com/labels/3834" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\&quot; as sales climbed.&quot;">Coors Light</a> <span>4.2 abv</span></h4>
+<p>Coors Brewing Company (Golden, CO) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Corona Extra" class="img-fluid" src="https://labels.untappd.com/labels/5848" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Outside Mexico, Corona is often served with a wedge of citrus fruit - usually lime, occasionally lemon - inserted into the neck of the bottle. Within Mexico, especially in the south, Corona served with lime is not uncommon, but is not considered mandatory.
+
+Includes Coronita, Coronita Extra, Corona Mega and Corona Familiar.
+
+If you are having either a Michelada or a Corona-rita, please do not create a unique new beer since beer cocktails are not allowed.">Corona Extra</a> <span>4.5 abv</span></h4>
+<p>Grupo Modelo (Mexico City, Distrito Federal) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Corona Light" class="img-fluid" src="https://labels.untappd.com/labels/5849" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Outside Mexico, Corona is often served with a wedge of citrus fruit - usually lime, occasionally lemon  - inserted into the neck of the bottle. Within Mexico, especially in the south, Corona served with lime is not uncommon, but is not considered mandatory.">Corona Light</a> <span>3.9 abv</span></h4>
+<p>Grupo Modelo (Mexico City, Distrito Federal) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Crime (2016)" class="img-fluid" src="https://labels.untappd.com/labels/1542766" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Crime (2016)</a> <span>10.8 abv</span></h4>
+<p>Stone Brewing (Escondido, CA) | Strong Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Dayblazer" class="img-fluid" src="https://labels.untappd.com/labels/1732512" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A deliciously refreshing golden ale, at 4.8% ABV, brewed with the finest malts and hops giving a sweet, crisp citrus finish with just a hint of honey. Available in 12-oz. and 24-oz. cans.">Dayblazer</a> <span>4.8 abv</span></h4>
+<p>New Belgium Brewing Company (Fort Collins, CO) | Golden Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="DayTime Fractional IPA" class="img-fluid" src="https://labels.untappd.com/labels/198572" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">DayTime Fractional IPA</a> <span>4.65 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | IPA - Session / India Session Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Delirium Tremens" class="img-fluid" src="https://labels.untappd.com/labels/4485" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="NB: Depending on the location and batch, this beer can be either 8.5% or 8.7%. Please do not post an edit request asking to change it from one to the other.
+
+The allusion to pink elephants and the choice of names is not due to chance. With a particular character, the unique taste of  results from the use of three different kinds of yeast. The result is a finish of peppery bitterness without aggression. The gray bottle hides a mystery awaiting discovery by the none faint of heart.">Delirium Tremens</a> <span>8.5 abv</span></h4>
+<p>Huyghe Brewery (Melle, Oost-Vlaanderen) | Belgian Strong Golden Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Dino S'mores" class="img-fluid" src="https://labels.untappd.com/labels/570436" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Imperial stout brewed w/ graham flour, marshmallow, molasses, cocoa nibs &amp; vanilla bean ">Dino S'mores</a> <span>10.5 abv</span></h4>
+<p>Off Color Brewing (Chicago, IL) | Stout - Russian Imperial</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Double Bastard Ale (2015)" class="img-fluid" src="https://labels.untappd.com/labels/1065706" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Double Bastard Ale (2015)</a> <span>11.2 abv</span></h4>
+<p>Arrogant Consortia (Escondido, CA) | Strong Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Dragon’s Milk" class="img-fluid" src="https://labels.untappd.com/labels/123662" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A stout with roasty malt character intermingled with deep vanilla tones, all dancing in an oak bath.">Dragon’s Milk</a> <span>11 abv</span></h4>
+<p>New Holland Brewing  (Holland, MI) | Stout - American Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="El Sully" class="img-fluid" src="https://labels.untappd.com/labels/491198" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A crisp Mexican-style lager with light notes of spice from Northern Brewer hops. ">El Sully</a> <span>4.9 abv</span></h4>
+<p>21st Amendment Brewery (San Francisco, CA) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Four Star Pils" class="img-fluid" src="https://labels.untappd.com/labels/1241711" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This golden-hued pilsner has a light, fresh body and clean finish. Bright, refreshing carbonation mingles with German and American hops to give this pilsner a unique Goose Island spin.">Four Star Pils</a> <span>5.1 abv</span></h4>
+<p>Goose Island Beer Co. (Chicago, IL) | Pilsner - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Framboise" class="img-fluid" src="https://labels.untappd.com/labels/2329" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The appearance of this exceptional beer is matched only by its taste! To make our Framboise, we add raspberry juice to our lambic. That gives it a delicate fruity aroma and a beautiful dark pink colour, just like the dress I wore to our cousin Willy's wedding. (But that's of no interest to you since you undoubtedly don't know Willy). Framboise is served as an aperitif, but I also use it in cooking. And when I don't finish the bottle in my preparations, I finish it in my glass.">Framboise</a> <span>2.5 abv</span></h4>
+<p>Brouwerij Lindemans (Vlezenbeek, Vlaams-Brabant) | Lambic - Framboise</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Freedom of Speach" class="img-fluid" src="https://labels.untappd.com/labels/2007691" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Our easy-drinking session sour demonstrates a clean tartness, balanced out by an assembly of ripe peach flavor.  Exercise your right to refreshment!">Freedom of Speach</a> <span>4.5 abv</span></h4>
+<p>Revolution Brewing Company (Chicago, IL) | Sour - Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Grapefruit Sculpin" class="img-fluid" src="https://labels.untappd.com/labels/285658" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Our Grapefruit Sculpin is the latest take on our signature IPA. Some may say there are few ways to improve Sculpin’s unique flavor, but the tart freshness of grapefruit perfectly complements our IPA’s citrusy hop character. Grapefruit’s a winter fruit, but this easy-drinking ale tastes like summer.">Grapefruit Sculpin</a> <span>7 abv</span></h4>
+<p>Ballast Point Brewing Company (San Diego, CA) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Heineken" class="img-fluid" src="https://labels.untappd.com/labels/5860" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Heineken is a 5% ABV euro pale lager, made by Heineken International since 1873. It is available in a 4.3% alcohol by volume, in countries such as Ireland. It is the flagship product of the company and is made of purified water, malted barley, hops, and yeast. In 1886 H. Elion finished the development of the Heineken A-yeast. This is the yeast that is still used for the beer. The beer is force carbonated. It is popular in the United States, Europe and Middle Eastern countries.">Heineken</a> <span>5 abv</span></h4>
+<p>Heineken (Zoeterwoude, Zuid Holland) | Lager - Euro</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Heineken Light" class="img-fluid" src="https://labels.untappd.com/labels/5867" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Heineken Light</a> <span>3.3 abv</span></h4>
+<p>Heineken (Zoeterwoude, Zuid Holland) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Henry's Hard Soda: Grape" class="img-fluid" src="https://labels.untappd.com/labels/1785216" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Henry's Hard Soda: Grape</a> <span>4.2 abv</span></h4>
+<p>Blitz-Weinhard Brewing Company (Golden, Co) | Malt Beer</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Henry's Hard Soda: Orange" class="img-fluid" src="https://labels.untappd.com/labels/1225160" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Henry’s Hard Orange is here to help push the limits of social etiquette. It tastes a lot like the orange soda you’re used to, just 4.2% harder.  With our fresh and delicious Hard Orange, buckle-up for a Hard-ish take on the traditional.  After you taste it, you might wonder: why hasn’t anyone done this before?">Henry's Hard Soda: Orange</a> <span>4.2 abv</span></h4>
+<p>Blitz-Weinhard Brewing Company (Golden, Co) | Malt Liquor </p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Honey Crisp" class="img-fluid" src="https://labels.untappd.com/labels/10780" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Honey Crisp</a> <span>6.5 abv</span></h4>
+<p>Crispin Cider Company (Colfax, CA) | Cider - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Hop Hash Easy IPA" class="img-fluid" src="https://labels.untappd.com/labels/1414175" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We kept the malt bill light to allow the hops to shine through. We dosed this sucker with a boatload of Amarillo Hop Hash. Pungent with floral, tropical citrus fruit flavors, and the hop hash gives it that one of a kind chewy, gooey, resiny mouthfeel. As the chaser, we are giving it a hefty dry hop to enhance the potent aromas. Ahtanum gives it orange and grapefruit tones, Crystal for a little kick of spiciness, and El Dorado bringing some pear and watermelon characteristics.
+
+Malts: Maris Otter, Pilsner, Wheat, Midnight Wheat
+Hops: Bravo, Amarillo Hop Hash
+Dry Hops: Ahtanum, El Dorado, Crystal
+
+KEEP ON KEEPIN' ON">Hop Hash Easy IPA</a> <span>4.2 abv</span></h4>
+<p>SweetWater Brewing Company  (Atlanta, GA) | IPA - Session / India Session Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Infinite Galaxy" class="img-fluid" src="https://labels.untappd.com/labels/2747288" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Infinite Galaxy</a> <span>7.3 abv</span></h4>
+<p>Pipeworks Brewing Company (Chicago, IL) | IPA - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="JK'S Scrumpy Organic Farm Cider" class="img-fluid" src="https://labels.untappd.com/labels/43006" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="JK'S Organic Scrumpy is slowly fermented from organic apples and natural yeast. The apples are 100% grown in our Michigan orchard. The same orchard has been in our family for over 150 years. This cider saved our farm during the Great Depression. We now produce it legally so you can appreciate it too. There will be slight variations from batch to batch, just as nature makes no two apples alike! Enjoy our authentic Estate bottled American Farmhouse Scrumpy cider with its fresh, juicy apple aroma and crisp, clean finish.">JK'S Scrumpy Organic Farm Cider</a> <span>6 abv</span></h4>
+<p>JK'S Farmhouse Ciders (Flushing, MI) | Cider - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Kaliber" class="img-fluid" src="https://labels.untappd.com/labels/24952" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Kaliber</a> <span>0 abv</span></h4>
+<p>Guinness (St. James's Gate, Dublin) | Non-Alcoholic Beer</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Kasteel Rouge" class="img-fluid" src="https://labels.untappd.com/labels/6890" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Its unique dark red colour is obtained by mixing Castle brown that has been left to mature for at least 6 months with sour cherries.
+
+Kasteel Rouge is aptly named for it’s deep, dark red color brought on by the addition of sour cherries to a base of brown ale, which is then left in the barrel for a six month period. This ale will surprise many with the sour of the cherries and the 8% alcohol level.
+
+This beer has gastronomic qualities and can be drunk as an aperitif, with a BBQ, to accompany a dessert or simply as an outstanding real ale.">Kasteel Rouge</a> <span>8 abv</span></h4>
+<p>Brouwerij Van Honsebrouck (Ingelmunster, West-Vlaanderen) | Fruit Beer</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="La Fin du Monde" class="img-fluid" src="https://labels.untappd.com/labels/6988" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The end of the world. The excellence of triple fermentation through a blend of special yeasts gives this malt beverage an exquisitely robust flavor of exceptional refinement.
+
+Brewed since February 1994">La Fin du Monde</a> <span>9 abv</span></h4>
+<p>Unibroue (Chambly, QC) | Belgian Tripel</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Lizard King" class="img-fluid" src="https://labels.untappd.com/labels/961062" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Lizard King is light, crisp and refreshing. Mosaic hops make for one tropical, citrusy, and piney pale that gets our mojo risin’.">Lizard King</a> <span>6 abv</span></h4>
+<p>Pipeworks Brewing Company (Chicago, IL) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Magners Original Irish Cider" class="img-fluid" src="https://labels.untappd.com/labels/5879" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="When William Magner set out to make Ireland’s greatest cider in 1935, this is what he came up with. We’ve barely changed it since then, but why would we? Made with 17 different varieties of fallen apple, pressed and then kept in the dark to mature for a couple of years, it is the crispest way to celebrate any moment.
+Sold as Bulmers in the
+Republic of Ireland.">Magners Original Irish Cider</a> <span>4.5 abv</span></h4>
+<p>Magners Irish Cider (Clonmel, Co. Tipperary) | Cider - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Mama's Little Yella Pils" class="img-fluid" src="https://labels.untappd.com/labels/5210" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Mama's Little Yella Pils - Our upcoming new canned good is a small-batch version of the beer that made Pilsen, Czechoslovakia famous. Mama's is made with hearty amounts of pale malt, German specialty malts, and a blend of traditional (Saaz) and 21st century Bavarian hops. Our first canned lager, it's also fermented at cool temperatures with a German yeast.
+
+This tasteful reality Czech is the perfect antidote for the watered-down versions of pilsner clogging Americaâ's shelves. And Mama's gentle hopping (about 35 IBUs) and low ABV (just 5.3%) mean we're finally honoring consumer requests for a delicious but less-challenging beer. (Hey, we like a good low-dose session beer, too.) Look for our Gold Metal Winner on US shelves in March.
+
+Sadly, the Feds rejected our Take Two and Call Us in the Morning line on the can.">Mama's Little Yella Pils</a> <span>4.7 abv</span></h4>
+<p>Oskar Blues Brewery (Longmont, CO) | Pilsner - Czech</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Mango Wheat" class="img-fluid" src="https://labels.untappd.com/labels/1383400" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="We are excited to present our refreshingly unique craft-brew, Anchor’s Mango Wheat™; an ale made with sunripened
+mangoes. Mangoes (Mangifera indica) are native to southern Asia, but Californians have enjoyed fresh
+mangoes since the 1850s. In 1857, Wide West reported that the mango “is at once the richest and most delicate
+of all fruits, and all other fruits are comparatively insipid beside its intensity of taste. There is something in it which
+is nothing less than voluptuous.” Anchor’s Mango Wheat is a crisply refreshing, effervescent, golden ale that
+highlights the delectable character of this singular fruit: Brightness without sharpness, fullness of flavor without
+heaviness, tropical aroma without pungency, and complexity without cacophony.">Mango Wheat</a> <span>4.5 abv</span></h4>
+<p>Anchor Brewing Company (San Francisco, CA) | Fruit Beer</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Maximus" class="img-fluid" src="https://labels.untappd.com/labels/5771" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A raging mouthful of fresh Hops and Malt. Caution: May remove enamel from teeth.">Maximus</a> <span>8.2 abv</span></h4>
+<p>Lagunitas Brewing Company (Petaluma, CA) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Michelob ULTRA" class="img-fluid" src="https://labels.untappd.com/labels/6655" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Michelob ULTRA</a> <span>4.2 abv</span></h4>
+<p>Anheuser-Busch (St. Louis, MO) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Milk Stout Nitro" class="img-fluid" src="https://labels.untappd.com/labels/82680" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="POUR HARD! Dark &amp; delicious, America’s milk stout will change your perception about what a stout can be.  Pouring hard out of the bottle, Milk Stout Nitro cascades beautifully, building a tight, thick head like hard whipped cream. The aroma is of brown sugar and vanilla cream, with hints of roasted coffee. The pillowy head coats your upper lip and its creaminess entices your palate. Initial roasty, mocha flavors rise up, with slight hop &amp; roast bitterness in the finish. The rest is pure bless of milk chocolate fullness.
+
+Famous for their Nitro series, Left Hand Brewing was the first craft brewery to release a bottled nitrogenated beer. For the best experience, pour hard at 180 degrees into a 16oz glass. Different gas, different pour. Cheers! #PourHard">Milk Stout Nitro</a> <span>6 abv</span></h4>
+<p>Left Hand Brewing Company (Longmont, CO) | Stout - Milk / Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Miller Genuine Draft" class="img-fluid" src="https://labels.untappd.com/labels/3779" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Miller Genuine Draft debuted in 1985 with fresh, smooth flavor that's a result of being cold-filtered four times. As we capitalize on the growing trend towards \mainstream sophistication">Miller Genuine Draft</a> <span>4.66 abv</span></h4>
+<p>Miller Brewing Company (Milwaukee, WI) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Miller Genuine Draft Light 64" class="img-fluid" src="https://labels.untappd.com/labels/5566" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Miller Genuine Draft Light 64</a> <span>2.8 abv</span></h4>
+<p>Miller Brewing Company (Milwaukee, WI) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Miller High Life" class="img-fluid" src="https://labels.untappd.com/labels/3778" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Miller High Life, also known as the Champagne of Beers, is a quintessentially classic, American-style lager. To this day, Miller High Life continues to be faithfully brewed as a golden pilsner, utilizing light-stable galena hops from the Pacific Northwest and a select combination of malted barley.">Miller High Life</a> <span>4.6 abv</span></h4>
+<p>Miller Brewing Company (Milwaukee, WI) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Miller Lite" class="img-fluid" src="https://labels.untappd.com/labels/3811" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship brand, Miller Lite, is the great tasting, less filling beer that defined the American light beer category in 1975. We deliver a clear, simple message to consumers: \Miller Lite is the better beer choice.\&quot; What's our proof? 
+1) Miller Lite is the original light beer. 
+2) Miller Lite has real beer taste because it's never watered down. 
+3) Miller Lite is the only beer to win four gold awards in the World Beer Cup for best American-style light lager. (2006">Miller Lite</a> <span>4.2 abv</span></h4>
+<p>Miller Brewing Company (Milwaukee, WI) | Lager - American Light</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Ninja vs. Unicorn" class="img-fluid" src="https://labels.untappd.com/labels/129534" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Ninja Vs. Unicorn celebrates the epic battle between two of the biggest hop-heads of lore. Brewed with over five pounds of hops per barrel, this unfiltered double IPA is sure to please the most discerning hop lover. Whether you're rooting for the mythical horned horse or the deadly assassin of the east, we hope you'll enjoy Ninja Vs. Unicorn.">Ninja vs. Unicorn</a> <span>8 abv</span></h4>
+<p>Pipeworks Brewing Company (Chicago, IL) | IPA - Imperial / Double</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Organic Apricot Fruit Beer" class="img-fluid" src="https://labels.untappd.com/labels/119231" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Handcrafted at the tiny All Saints Brewery set in a time warp in Stamford using the old manually operated brewing equipment. Finest organically grown barley and wheat are used to create a  complex ale which, having undergone primary and secondary fermentation with different yeasts and extended maturation, is taken to Samuel Smith’s small, independent British brewery at Tadcaster. There it is blended with pure organic cherry, strawberry, raspberry or apricot fruit juices and more organic beer to create fruit beers of considerable strength and flavour. The smooth distinctive character of the matured beer serves as the perfect counterpoint to the pure organic fruit juice.">Organic Apricot Fruit Beer</a> <span>5.1 abv</span></h4>
+<p>Samuel Smith (Tadcaster, North Yorkshire) | Fruit Beer</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Original Cider" class="img-fluid" src="https://labels.untappd.com/labels/8683" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Naturally fermented using a premium blend of unpasteurized fresh-pressed apple juice, not from concentrate, with no added malt, spirit or grape alcohols. Crispin's unique flavor is smoothed with apple juice, no added sugar, colorants, so bate or benzoate preservatives and filtered cold for crisp refreshment.">Original Cider</a> <span>5 abv</span></h4>
+<p>Crispin Cider Company (Colfax, CA) | Cider - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Pabst Blue Ribbon" class="img-fluid" src="https://labels.untappd.com/labels/3883" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This is the original Pabst Blue Ribbon Beer. Nature's choicest products provide its prized flavor. Only the finest of hops and grains are used. Selected as America's Best in 1893.">Pabst Blue Ribbon</a> <span>4.6 abv</span></h4>
+<p>Pabst Brewing Company (Los Angeles, CA) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Prairie Path Ale" class="img-fluid" src="https://labels.untappd.com/labels/3142" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Prairie Path Ale is a Belgian-style golden ale. Prairie Path Ale is a full flavored, slightly bitter, clean and refreshing ale. The Belgian malts along with the Saaz and Goldings hops give this beer great drinkability.
+
+Brewed specially to remove gluten.">Prairie Path Ale</a> <span>5.1 abv</span></h4>
+<p>Two Brothers Brewing Company (Warrenville, IL) | Golden Ale</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Pseudo Sue" class="img-fluid" src="https://labels.untappd.com/labels/65644" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This single hop pale ale showcases the Citra hop for a well balanced beer that is delicate in body with a mild bitterness in the finish. Ferocious hop aromas of citrus and mango give a refreshing taste that is bright with just enough bite!">Pseudo Sue</a> <span>6.8 abv</span></h4>
+<p>Toppling Goliath Brewing Co. (Decorah, IA) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Puff The Magic Cyser" class="img-fluid" src="https://labels.untappd.com/labels/526627" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A collaborative barrel aged product between Vander Mill and New Holland Brewing Company, This cyser is fermented with Michigan wildflower honey to complete dryness and then aged in New Holland Dragons’ Milk barrels for eight months. The richness from the stout, and depth of the barrel flavor make this product very complex. A hint of the honey and acidity of the cider round out the profile.">Puff The Magic Cyser</a> <span>8.5 abv</span></h4>
+<p>Vander Mill (Spring Lake, MI) | Mead - Cyser</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Robert the Bruce" class="img-fluid" src="https://labels.untappd.com/labels/103" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A big malty body from chocolate and roasted malts, well balanced with just the right combination of hops. Robust yet smooth, a true malt-lover's delight.">Robert the Bruce</a> <span>7 abv</span></h4>
+<p>3 Floyds Brewing Company (Munster, IN) | Scotch Ale / Wee Heavy</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Schöfferhofer Grapefruit" class="img-fluid" src="https://labels.untappd.com/labels/21857" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Now that you’ve discovered the new unique taste of our beer, we salute your ways to keep it fresh. As an original - the first to combine Hefeweizen beer and grapefruit juice, we’d like to introduce you to the “proper” pronunciation of our unusual and challenging name: Chauffeur + ah + (The) Hoff + ah! ">Schöfferhofer Grapefruit</a> <span>2.5 abv</span></h4>
+<p>Radeberger Gruppe (Frankfurt) | Shandy / Radler</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="St. Louis Premium Kriek" class="img-fluid" src="https://labels.untappd.com/labels/54197" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="St-Louis Premium Kriek is a kriekenbier, or cherry beer, made on a lambic base. A quarter of St-Louis Premium Kriek is the juice of Obacinska krieken cherries that have been steeped in geuze for six months. It also has a smaller proportion of St-Louis Kriek Fond Tradition. This beer is a thirst-quencher with a low alcohol content and, in the nose, overwhelmingly sweet aromas of krieken cherries. It’s very fruity with a hint of sourness and slight touches of almond coming from the krieken cherry stones. ">St. Louis Premium Kriek</a> <span>3.2 abv</span></h4>
+<p>Brouwerij Van Honsebrouck (Ingelmunster, West-Vlaanderen) | Lambic - Kriek</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Tecate" class="img-fluid" src="https://labels.untappd.com/labels/5880" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A well balanced bright golden lager beer with a malt crisp flavor, low to medium bitterness that finishes clean.">Tecate</a> <span>4.5 abv</span></h4>
+<p>Cervecería Cuauhtémoc Moctezuma S.A. de C.V. (Monterrey, Nuevo León) | Lager - North American Adjunct</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Totally Roasted" class="img-fluid" src="https://labels.untappd.com/labels/81834" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Beginning with our traditional hard apple cider we then steep candied pecans. We make our own cinnamon roasted pecans that bring vanilla, cinnamon, and a nuttiness to this product that makes it a truly unique cider. Totally Roasted is semi-.sweet with a tart finish.">Totally Roasted</a> <span>6.9 abv</span></h4>
+<p>Vander Mill (Spring Lake, MI) | Cider - Other</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Tripel" class="img-fluid" src="https://labels.untappd.com/labels/1424" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This strong golden ale carries herbal notes and passion fruit in the aroma. Suggestions of honey and biscuit are found in the beer's complex, varied palate. Brewed with our 2-row barley blend, hopped with Nugget and Hallertau, then fermented on our house yeast, Tripel offers up a complex, yet dry finish.">Tripel</a> <span>9 abv</span></h4>
+<p>Allagash Brewing Company (Portland, ME) | Belgian Tripel</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Tripel Karmeliet" class="img-fluid" src="https://labels.untappd.com/labels/6511" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Tripel Karmeliet is still brewed to an authentic beer recipe from 1679 originating in the former Carmelite monastery in Dendermonde. Written over 300 years ago, this recipe describes the use of three kinds of grain: wheat, oats and barley.
+
+The name Tripel karmeliet thus refers both to its origin and its in-bottle refermentation. From many trial brews of multigrain tripels carried out at our brewery in the 90s, it appears that the particular historic combination of the 3 kinds of grain still remains the ideal blend.">Tripel Karmeliet</a> <span>8.4 abv</span></h4>
+<p>Brouwerij Bosteels (Buggenhout, Oost-Vlaanderen) | Belgian Tripel</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Tuna" class="img-fluid" src="https://labels.untappd.com/labels/515062" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="Defined for daylong companionship, the Golden Tuna rides along a medium bodied frame before delving into tropical fruit, a touch of floral, with a slightly piney finish. Climb aboard and cut her loose.">Tuna</a> <span>4.7 abv</span></h4>
+<p>Half Acre Beer Company (Chicago, IL) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Vanilla Stout" class="img-fluid" src="https://labels.untappd.com/labels/98082" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="A traditional Milk Stout infused with pure Madagascar vanilla. Subtle vanilla flavor throughout with roasted notes and a slightly sweet, smooth finish.">Vanilla Stout</a> <span>6 abv</span></h4>
+<p>Big Muddy Brewing (Murphysboro, IL) | Stout - Milk / Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Weisse / Hefe Weiße / Weissbier" class="img-fluid" src="https://labels.untappd.com/labels/5975" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="">Weisse / Hefe Weiße / Weissbier</a> <span>5.5 abv</span></h4>
+<p>Hacker-Pschorr (81249 München, BY) | Hefeweizen</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Young's Double Chocolate Stout" class="img-fluid" src="https://labels.untappd.com/labels/130571" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="The original dark beer brewed with real chocolate.">Young's Double Chocolate Stout</a> <span>5.2 abv</span></h4>
+<p>Eagle Brewery (formerly Charles Wells) (Bedford, Bedfordshire) | Stout - Milk / Sweet</p>
+</div>
+</div>
+</div>
+<div class=" 8999 col-md-4 margin-b-30 menu-item">
+<div class="menu-box clearfix ">
+<div class="thumb">
+<img alt="Zombie Dust" class="img-fluid" src="https://labels.untappd.com/labels/13559" width="70"/>
+</div>
+<div class="menu-content">
+<h4><a data-placement="top" data-toggle="tooltip" title="This intensely hopped and gushing undead Pale Ale will be one’s only respite after the zombie apocalypse. Created with our marvelous friends in the comic industry.">Zombie Dust</a> <span>6.2 abv</span></h4>
+<p>3 Floyds Brewing Company (Munster, IN) | Pale Ale - American</p>
+</div>
+</div>
+</div>
+</div>
+<div class="space-80"></div>
+</div>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-3 margin-b-30">
+<img alt="logo" class="margin-b-20 logo-footer" src="/images/logos/TOTS-PATCH-gold.png"/>
+</div>
+<div class="col-md-3 margin-b-30">
+<h3>Hours of Operation</h3>
+<p><span class="text-color">Mon - Thur :</span> 11:00AM - 3:00AM</p>
+<p><span class="text-color">Fri :</span> 11:00AM - 4:00AM</p>
+<p><span class="text-color">Sat</span> 11:00AM - 4:00AM</p>
+<p><span class="text-color">Sun</span> 11:00AM* - 3:00AM</p>
+<p><span class="text-color">*</span> 9:30AM For Bears Home Games Beginning at Noon</p>
+</div>
+<div class="col-md-3 margin-b-30">
+<h3>Contact Us</h3>
+<p class="lead">
+                        622 N. Fairbanks Ct. Chicago, IL 60611
+                    </p>
+<p class="lead"><a href="tel:3126420700">(312) 642-0700</a></p>
+<p><a href="mailto:pub622@sbcglobal.net">pub622@sbcglobal.net</a></p>
+</div>
+<div class="col-md-3 margin-b-30">
+<h3>Newsletter</h3>
+<script type="text/javascript">
+    function OnSuccess(data) {
+        $('#txtNewsLetterFooter').hide();
+        $('#btnNewsLetterFooter').hide();
+    }
+</script>
+<form action="/umbraco/Surface/Newsletter/SignUp" data-ajax="true" data-ajax-method="Post" data-ajax-mode="replace" data-ajax-success="OnSuccess" data-ajax-update="#divConfirmation" id="form0" method="post"> <div class="form-group">
+<input data-val="true" data-val-number="The field DomainId must be a number." data-val-required="The DomainId field is required." id="DomainId" name="DomainId" type="hidden" value="0"/>
+<input class="form-control" data-val="true" data-val-email="Please enter a valid email address" data-val-regex="You must enter a valid Email Address" data-val-regex-pattern="^[^@]+@[^@]+\.[a-zA-Z]{2,6}$" data-val-required="Please enter your email address" id="txtNewsLetterFooter" name="EmailAddress" placeholder="Please Enter Email Address" type="text" value=""/>
+</div>
+<div class="clearfix">
+<input class="btn btn-primary btn-lg" id="btnNewsLetterFooter" type="submit" value="Sign Up Now!"/>
+<div id="divConfirmation">
+<span class="field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12 text-center">
+<ul class="list-inline f-social">
+<li class="list-inline-item"><a href="https://www.facebook.com/TimothyOToolesPub" target="_blank"><i class="ion-social-facebook"></i></a></li>
+<li class="list-inline-item"><a href="https://twitter.com/TimmyOTooles" target="_blank"><i class="ion-social-twitter"></i></a></li>
+<li class="list-inline-item"><a href="http://instagram.com/timmyotooles" target="_blank"><i class="ion-social-instagram"></i></a></li>
+<li class="list-inline-item"><a href="http://www.youtube.com/channel/UCRrvlUMwqSNLQrR0pEeEEjA" target="_blank"><i class="ion-social-youtube"></i></a></li>
+</ul>
+<div class="margin-b-10">
+<span>© Copyright 2018 Timothy O'Toole's Pub</span>
+</div>
+<div class="clearfix">
+<div class="text-center">
+<a href="http://www.codegreendevelopment.com" target="_blank" title="made by Code Green">
+<img alt="made by Code Green" src="/images/made-by-codegreen.png">
+</img></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a class="scrollToTop" href="#"><i class="ion-android-arrow-up"></i></a>
+<script src="/assets/js/plugins/plugins.js" type="text/javascript"></script>
+<script src="/bundles/scripts?v=lJNdKO-4mxNpWn4ZfPFGkmkIl_TQCBCk9lcWxrTNQi01"></script>
+<script src="/bundles/jqueryval?v=HSJBNbTHo6feaNDNpV6wU9HvM6_0yNxpFOac3afdXx01"></script>
+<script src="/assets/js/isotope.pkgd.min.js" type="text/javascript"></script>
+<script src="/assets/js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+<script>
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            if ($('.menu-filter-items').length) {
+                var $galleryFilter = $('.menu-filter-items').isotope({
+                    itemSelector: '.menu-item',
+                    layoutMode: 'fitRows'
+                });
+                $('.menu-filter-list').on('click', 'li', function () {
+                    var filterValue = $(this).attr('data-filter');
+                    $('.menu-filter-list').find('.is-checked').removeClass('is-checked');
+                    $(this).addClass('is-checked');
+                    $galleryFilter.isotope({filter: filterValue});
+                });
+                $galleryFilter.imagesLoaded().progress(function () {
+                    $galleryFilter.isotope('layout');
+                });
+                // set the first tab as active, filter to that tab
+                if ($('.menu-filter-list')) {
+                    var initFilterValue = $('.menu-filter-list').first().children().first('li').attr('data-filter');
+                    $galleryFilter.isotope({ filter: initFilterValue });
+                }
+            }
+        });
+    </script>
+<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+<script src="/bundles/store?v=WyRwb8VYITblIZhYT2-6NS_vurt7YGZepO40ArUOLAY1"></script>
+<script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-16157045-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+</body>
+</html>

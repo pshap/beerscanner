@@ -42,4 +42,6 @@ def log_error(e):
 
 raw_html = simple_get(url)
 phtml = BeautifulSoup(raw_html, 'html.parser')
-print(phtml)
+
+f = open("menufile.txt", 'w')
+f.write(str(phtml))
