@@ -51,14 +51,6 @@ f.write(str(phtml))
 print('HTML Saved')
 
 f = open("beerlist.txt", 'w')
-for div in phtml.select('div.menu-content'):
+for div in phtml.select('div.9220'):
         f.write(div.text)
-
 print('BeerList Saved')
-
-#if os.path.exists("beerlist.txt"):
-    #os.remove("beerlist.txt");
-
-#f = open("beerlist.txt", 'a')
-#f.write('div')
-#print('BeerList Saved')
