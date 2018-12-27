@@ -36,7 +36,7 @@ Timothy O&amp;#39;Toole&amp;#39;s Chicago has a great selection of craft beer, c
 <div id="preloader">
 <div id="preloader-inner"></div>
 </div>
-<input name="__RequestVerificationToken" type="hidden" value="sYaSQ2jWoFzCzcmLWWcZAXMbtxrYZN45TV7IIajP9MYrKNUUI9lNZ0njxtV-m-g92fkld3EkNi0E-can0HgdrX1yiJwn0oIadjECuSaCM9qQ82fqCYPstRwr-FGMAqK1XIVlW6mKcKW07a4FB1IFIdtY3_I0hrgTXRwkBZRI7381"/>
+<input name="__RequestVerificationToken" type="hidden" value="gyni7bJ06UsIFIh0xdAfJ2yetIg2b8e7C7ooxAX5pgOwprGXc_fQrF7k73RIvGv0SbZhsI7XTQK0xB6sIQ5O-iaMH7Scu3RpXjZ-IOT8CAIuLjeZkCZMFQiwr6lChFVUTXXvPhDojw85vVZnIkPap3KxWm3xbrOxg2rjiCGXPNI1"/>
 <header class="header header-top-transparent">
 <div class="top-bar">
 <div class="container">

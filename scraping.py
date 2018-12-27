@@ -2,9 +2,9 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
+import os
 
 url = 'http://www.timothyotooles.com/chicago/drinks/3006/Timothy-O-Toole-s-Chicago-Beer-Menu'
-print(url)
 
 def simple_get(url):
     """
@@ -43,5 +43,22 @@ def log_error(e):
 raw_html = simple_get(url)
 phtml = BeautifulSoup(raw_html, 'html.parser')
 
+if os.path.exists("menufile.txt"):
+  os.remove("menufile.txt");
+
 f = open("menufile.txt", 'w')
 f.write(str(phtml))
+print('HTML Saved')
+
+f = open("beerlist.txt", 'w')
+for div in phtml.select('div.menu-content'):
+        f.write(div.text)
+
+print('BeerList Saved')
+
+#if os.path.exists("beerlist.txt"):
+    #os.remove("beerlist.txt");
+
+#f = open("beerlist.txt", 'a')
+#f.write('div')
+#print('BeerList Saved')

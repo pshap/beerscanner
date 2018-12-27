@@ -1,0 +1,417 @@
+
+12th of Never Ale 5.5 abv
+Lagunitas Brewing Company (Petaluma, CA) | Pale Ale - American
+
+Anchor Gold 4 abv
+Anchor Brewing Company (San Francisco, CA) | Golden Ale
+
+Blood Orange Blonde 4.5 abv
+Anchor Brewing Company (San Francisco, CA) | Blonde Ale
+
+Breck Lager 4.5 abv
+Breckenridge Brewery (Littleton, CO) | Lager - American Amber / Red
+
+Carlsberg 5 abv
+Carlsberg Group (Copenhagen) | Lager - Euro
+
+Centennial IPA 7.2 abv
+Founders Brewing Co. (Grand Rapids, MI) | IPA - American
+
+Dayblazer 4.8 abv
+New Belgium Brewing Company (Fort Collins, CO) | Golden Ale
+
+Dirty Bastard 8.5 abv
+Founders Brewing Co. (Grand Rapids, MI) | Scotch Ale / Wee Heavy
+
+Hop Hash Easy IPA 4.2 abv
+SweetWater Brewing Company  (Atlanta, GA) | IPA - Session / India Session Ale
+
+Mango Wheat 4.5 abv
+Anchor Brewing Company (San Francisco, CA) | Fruit Beer
+
+Primus 5.2 abv
+Brouwerij Haacht Brasserie (Boortmeerbeek, Vlaams Brabant) | Lager - Euro
+
+10 Lords-A-Leaping 10.5 abv
+The Bruery (Placentia, CA) | Belgian Strong Dark Ale
+
+312 Urban Wheat Ale 4.2 abv
+Goose Island Beer Co. (Chicago, IL) | Pale Wheat Ale - American
+
+All Day IPA 4.7 abv
+Founders Brewing Co. (Grand Rapids, MI) | IPA - Session / India Session Ale
+
+Alpha Klaus 6 abv
+3 Floyds Brewing Company (Munster, IN) | Porter - American
+
+Anti-Hero 6.7 abv
+Revolution Brewing Company (Chicago, IL) | IPA - American
+
+Barrel Aged Neapolitan Milk Stout 10.5 abv
+Saugatuck Brewing Company (Douglas, MI) | Stout - Milk / Sweet
+
+Belgian White 5.4 abv
+Blue Moon Brewing Company (Denver, CO) | Witbier
+
+Benthic 14 abv
+Half Acre Beer Company (Chicago, IL) | Stout - Imperial / Double
+
+Berliner Weisse Cranberry-Quince 4.1 abv
+North Coast Brewing Company (Fort Bragg, CA) | Sour - Berliner Weisse
+
+Big Bad Baptista 11.7 abv
+Epic Brewing Co. (Utah, Colorado) (Salt Lake City, UT) | Stout - American Imperial / Double
+
+Black Chocolate Stout 10 abv
+Brooklyn Brewery (Brooklyn, NY) | Stout - Russian Imperial
+
+Breakfast Stout 8.3 abv
+Founders Brewing Co. (Grand Rapids, MI) | Stout - Oatmeal
+
+Brown Shugga' 10 abv
+Lagunitas Brewing Company (Petaluma, CA) | Strong Ale - American
+
+Bud Light 4.2 abv
+Anheuser-Busch (St. Louis, MO) | Lager - American Light
+
+Christmas Ale 7.5 abv
+Great Lakes Brewing Company (Cleveland, OH) | Winter Ale
+
+Coors Light 4.2 abv
+Coors Brewing Company (Golden, CO) | Lager - American Light
+
+Crisp Apple 5 abv
+Angry Orchard Cider Company (Walden, NY) | Cider - Sweet
+
+Dale's Pale Ale 6.5 abv
+Oskar Blues Brewery (Longmont, CO) | Pale Ale - American
+
+Delirium Noël / Christmas 10 abv
+Huyghe Brewery (Melle, Oost-Vlaanderen) | Winter Ale
+
+Delirium Red 8 abv
+Huyghe Brewery (Melle, Oost-Vlaanderen) | Fruit Beer
+
+Fairy Basslet 9.5 abv
+Pipeworks Brewing Company (Chicago, IL) | IPA - Imperial / Double
+
+Firestone Lager 4.5 abv
+Firestone Walker Brewing Company (Paso Robles, CA) | Lager - Helles
+
+Foggy Geezer 6.8 abv
+WarPigs Brewpub (Copenhagen) | IPA - New England
+
+Fun Size 6.1 abv
+Pollyanna Brewing Company (Lemont, IL) | Stout - Milk / Sweet
+
+Guinness Draught 4.2 abv
+Guinness (St. James's Gate, Dublin) | Stout - Irish Dry
+
+Harp Premium Lager 4.5 abv
+Guinness (St. James's Gate, Dublin) | Lager - Euro
+
+Heineken 5 abv
+Heineken (Zoeterwoude, Zuid Holland) | Lager - Euro
+
+Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen 5.1 abv
+Staatliches Hofbräuhaus München (München) | Hefeweizen
+
+IPA 6.2 abv
+Lagunitas Brewing Company (Petaluma, CA) | IPA - American
+
+Kidnapped by Vikings 6 abv
+Solemn Oath Brewery (Naperville, IL) | IPA - American
+
+Krombacher Dark 4.7 abv
+Krombacher Gruppe (Kreuztal, Nordrhein-Westfalen) | Schwarzbier
+
+Miller Lite 4.2 abv
+Miller Brewing Company (Milwaukee, WI) | Lager - American Light
+
+Modelo Especial 4.5 abv
+Grupo Modelo (Mexico City, Distrito Federal) | Lager - North American Adjunct
+
+Movembeer 2018 9 abv
+Pollyanna Brewing Company (Lemont, IL) | Stout - Imperial Oatmeal
+
+Nitro Chocolate Camaro 6 abv
+Half Acre Beer Company (Chicago, IL) | Stout - Milk / Sweet
+
+Ohio City Oatmeal Stout 5.4 abv
+Great Lakes Brewing Company (Cleveland, OH) | Stout - Oatmeal
+
+Parka Porter 5.3 abv
+Goose Island Beer Co. (Chicago, IL) | Porter - American
+
+Pseudo Sue 6.8 abv
+Toppling Goliath Brewing Co. (Decorah, IA) | Pale Ale - American
+
+Sam ‘76 4.7 abv
+Boston Beer Company (Boston, MA) | Lager - American Light
+
+Samuel Adams Boston Lager 5 abv
+Boston Beer Company (Boston, MA) | Lager - Vienna
+
+Samuel Adams Winter Lager 5.6 abv
+Boston Beer Company (Boston, MA) | Lager - Winter
+
+Smithwick's 4.5 abv
+Guinness (St. James's Gate, Dublin) | Red Ale - Irish
+
+Sosus 7.8 abv
+Toppling Goliath Brewing Co. (Decorah, IA) | IPA - Imperial / Double
+
+Stella Artois 5 abv
+Stella Artois (Leuven, Vlaams-Brabant) | Lager - Euro
+
+Thai Speedway Stout 12 abv
+AleSmith Brewing Company (San Diego, CA) | Stout - American Imperial / Double
+
+White 5.2 abv
+Allagash Brewing Company (Portland, ME) | Witbier
+
+Winter White Ale 5 abv
+Bell's Brewery (Comstock, MI) | Witbier
+
+Zombie Dust 6.2 abv
+3 Floyds Brewing Company (Munster, IN) | Pale Ale - American
+
+120 Minute IPA 18 abv
+Dogfish Head Craft Brewery (Milton, DE) | IPA - Imperial / Double
+
+12th of Never Ale 5.5 abv
+Lagunitas Brewing Company (Petaluma, CA) | Pale Ale - American
+
+20th Anniversary Encore Series: Stone 14th Anniversary Emperial IPA 8.9 abv
+Stone Brewing (Escondido, CA) | IPA - Imperial / Double
+
+3rd Anniversary Ale 8.4 abv
+Prairie Artisan Ales (Krebs, OK) | Saison / Farmhouse Ale
+
+420 Extra Pale Ale 5.7 abv
+SweetWater Brewing Company  (Atlanta, GA) | Pale Ale - American
+
+A Little Sumpin' Sumpin' Ale 7.5 abv
+Lagunitas Brewing Company (Petaluma, CA) | Pale Wheat Ale - American
+
+Alpha King 6.66 abv
+3 Floyds Brewing Company (Munster, IN) | Pale Ale - American
+
+American Monastic 8.5 abv
+Clown Shoes (Boston, MA) | IPA - Imperial / Double
+
+Amstel 5 abv
+Amstel Bier (Zoeterwoude, Zuid Holland) | Lager - Euro
+
+Anti-Hero 6.7 abv
+Revolution Brewing Company (Chicago, IL) | IPA - American
+
+Arrogant Bastard Ale 7.2 abv
+Arrogant Consortia (Escondido, CA) | Strong Ale - American
+
+Begyle Blonde 5.4 abv
+Begyle Brewing (Chicago, IL) | Blonde Ale
+
+Blood of the Unicorn 6.5 abv
+Pipeworks Brewing Company (Chicago, IL) | Red Ale - American Amber / Red
+
+Blood Orange Blonde 4.5 abv
+Anchor Brewing Company (San Francisco, CA) | Blonde Ale
+
+Blood Orange Guppy 4.6 abv
+Pipeworks Brewing Company (Chicago, IL) | IPA - Session / India Session Ale
+
+Blue Gold 6.9 abv
+Vander Mill (Spring Lake, MI) | Cider - Other
+
+Blueberry Blonde 6 abv
+Big Muddy Brewing (Murphysboro, IL) | Fruit Beer
+
+Breck Lager 4.5 abv
+Breckenridge Brewery (Littleton, CO) | Lager - American Amber / Red
+
+Brother Thelonious 9.4 abv
+North Coast Brewing Company (Fort Bragg, CA) | Belgian Strong Dark Ale
+
+Bud Light 4.2 abv
+Anheuser-Busch (St. Louis, MO) | Lager - American Light
+
+Budweiser 5 abv
+Anheuser-Busch (St. Louis, MO) | Lager - North American Adjunct
+
+Carlsberg 5 abv
+Carlsberg Group (Copenhagen) | Lager - Euro
+
+Centennial IPA 7.2 abv
+Founders Brewing Co. (Grand Rapids, MI) | IPA - American
+
+Coors Banquet 5 abv
+Coors Brewing Company (Golden, CO) | Lager - North American Adjunct
+
+Coors Light 4.2 abv
+Coors Brewing Company (Golden, CO) | Lager - American Light
+
+Corona Extra 4.5 abv
+Grupo Modelo (Mexico City, Distrito Federal) | Lager - North American Adjunct
+
+Corona Light 3.9 abv
+Grupo Modelo (Mexico City, Distrito Federal) | Lager - American Light
+
+Crime (2016) 10.8 abv
+Stone Brewing (Escondido, CA) | Strong Ale - American
+
+Dayblazer 4.8 abv
+New Belgium Brewing Company (Fort Collins, CO) | Golden Ale
+
+DayTime Fractional IPA 4.65 abv
+Lagunitas Brewing Company (Petaluma, CA) | IPA - Session / India Session Ale
+
+Delirium Tremens 8.5 abv
+Huyghe Brewery (Melle, Oost-Vlaanderen) | Belgian Strong Golden Ale
+
+Dino S'mores 10.5 abv
+Off Color Brewing (Chicago, IL) | Stout - Russian Imperial
+
+Double Bastard Ale (2015) 11.2 abv
+Arrogant Consortia (Escondido, CA) | Strong Ale - American
+
+Dragon’s Milk 11 abv
+New Holland Brewing  (Holland, MI) | Stout - American Imperial / Double
+
+El Sully 4.9 abv
+21st Amendment Brewery (San Francisco, CA) | Lager - American Light
+
+Four Star Pils 5.1 abv
+Goose Island Beer Co. (Chicago, IL) | Pilsner - Other
+
+Framboise 2.5 abv
+Brouwerij Lindemans (Vlezenbeek, Vlaams-Brabant) | Lambic - Framboise
+
+Freedom of Speach 4.5 abv
+Revolution Brewing Company (Chicago, IL) | Sour - Ale
+
+Grapefruit Sculpin 7 abv
+Ballast Point Brewing Company (San Diego, CA) | IPA - American
+
+Heineken 5 abv
+Heineken (Zoeterwoude, Zuid Holland) | Lager - Euro
+
+Heineken Light 3.3 abv
+Heineken (Zoeterwoude, Zuid Holland) | Lager - American Light
+
+Henry's Hard Soda: Grape 4.2 abv
+Blitz-Weinhard Brewing Company (Golden, Co) | Malt Beer
+
+Henry's Hard Soda: Orange 4.2 abv
+Blitz-Weinhard Brewing Company (Golden, Co) | Malt Liquor 
+
+Honey Crisp 6.5 abv
+Crispin Cider Company (Colfax, CA) | Cider - Other
+
+Hop Hash Easy IPA 4.2 abv
+SweetWater Brewing Company  (Atlanta, GA) | IPA - Session / India Session Ale
+
+Infinite Galaxy 7.3 abv
+Pipeworks Brewing Company (Chicago, IL) | IPA - American
+
+JK'S Scrumpy Organic Farm Cider 6 abv
+JK'S Farmhouse Ciders (Flushing, MI) | Cider - Other
+
+Kaliber 0 abv
+Guinness (St. James's Gate, Dublin) | Non-Alcoholic Beer
+
+Kasteel Rouge 8 abv
+Brouwerij Van Honsebrouck (Ingelmunster, West-Vlaanderen) | Fruit Beer
+
+La Fin du Monde 9 abv
+Unibroue (Chambly, QC) | Belgian Tripel
+
+Lizard King 6 abv
+Pipeworks Brewing Company (Chicago, IL) | Pale Ale - American
+
+Magners Original Irish Cider 4.5 abv
+Magners Irish Cider (Clonmel, Co. Tipperary) | Cider - Other
+
+Mama's Little Yella Pils 4.7 abv
+Oskar Blues Brewery (Longmont, CO) | Pilsner - Czech
+
+Mango Wheat 4.5 abv
+Anchor Brewing Company (San Francisco, CA) | Fruit Beer
+
+Maximus 8.2 abv
+Lagunitas Brewing Company (Petaluma, CA) | IPA - Imperial / Double
+
+Michelob ULTRA 4.2 abv
+Anheuser-Busch (St. Louis, MO) | Lager - American Light
+
+Milk Stout Nitro 6 abv
+Left Hand Brewing Company (Longmont, CO) | Stout - Milk / Sweet
+
+Miller Genuine Draft 4.66 abv
+Miller Brewing Company (Milwaukee, WI) | Lager - North American Adjunct
+
+Miller Genuine Draft Light 64 2.8 abv
+Miller Brewing Company (Milwaukee, WI) | Lager - American Light
+
+Miller High Life 4.6 abv
+Miller Brewing Company (Milwaukee, WI) | Lager - North American Adjunct
+
+Miller Lite 4.2 abv
+Miller Brewing Company (Milwaukee, WI) | Lager - American Light
+
+Ninja vs. Unicorn 8 abv
+Pipeworks Brewing Company (Chicago, IL) | IPA - Imperial / Double
+
+Organic Apricot Fruit Beer 5.1 abv
+Samuel Smith (Tadcaster, North Yorkshire) | Fruit Beer
+
+Original Cider 5 abv
+Crispin Cider Company (Colfax, CA) | Cider - Other
+
+Pabst Blue Ribbon 4.6 abv
+Pabst Brewing Company (Los Angeles, CA) | Lager - North American Adjunct
+
+Prairie Path Ale 5.1 abv
+Two Brothers Brewing Company (Warrenville, IL) | Golden Ale
+
+Pseudo Sue 6.8 abv
+Toppling Goliath Brewing Co. (Decorah, IA) | Pale Ale - American
+
+Puff The Magic Cyser 8.5 abv
+Vander Mill (Spring Lake, MI) | Mead - Cyser
+
+Robert the Bruce 7 abv
+3 Floyds Brewing Company (Munster, IN) | Scotch Ale / Wee Heavy
+
+Schöfferhofer Grapefruit 2.5 abv
+Radeberger Gruppe (Frankfurt) | Shandy / Radler
+
+St. Louis Premium Kriek 3.2 abv
+Brouwerij Van Honsebrouck (Ingelmunster, West-Vlaanderen) | Lambic - Kriek
+
+Tecate 4.5 abv
+Cervecería Cuauhtémoc Moctezuma S.A. de C.V. (Monterrey, Nuevo León) | Lager - North American Adjunct
+
+Totally Roasted 6.9 abv
+Vander Mill (Spring Lake, MI) | Cider - Other
+
+Tripel 9 abv
+Allagash Brewing Company (Portland, ME) | Belgian Tripel
+
+Tripel Karmeliet 8.4 abv
+Brouwerij Bosteels (Buggenhout, Oost-Vlaanderen) | Belgian Tripel
+
+Tuna 4.7 abv
+Half Acre Beer Company (Chicago, IL) | Pale Ale - American
+
+Vanilla Stout 6 abv
+Big Muddy Brewing (Murphysboro, IL) | Stout - Milk / Sweet
+
+Weisse / Hefe Weiße / Weissbier 5.5 abv
+Hacker-Pschorr (81249 München, BY) | Hefeweizen
+
+Young's Double Chocolate Stout 5.2 abv
+Eagle Brewery (formerly Charles Wells) (Bedford, Bedfordshire) | Stout - Milk / Sweet
+
+Zombie Dust 6.2 abv
+3 Floyds Brewing Company (Munster, IN) | Pale Ale - American
