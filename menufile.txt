@@ -36,7 +36,7 @@ Timothy O&amp;#39;Toole&amp;#39;s Chicago has a great selection of craft beer, c
 <div id="preloader">
 <div id="preloader-inner"></div>
 </div>
-<input name="__RequestVerificationToken" type="hidden" value="M6j5PQe2AcNv0XuHoq6T_Bkms5-Yz8jL11Y_PSAFSXsqL2H1mNsq1PrFjMmyXeelC67YxUJAJoWTCAcDuIOx_mzTGp2Ks7-8rKQXIG1NTuXrvibZbleXx2xphObKHJ_8sac9pT6LMMKMryFtS6WGaDBoXI3WAanzG6WQThdCCc41"/>
+<input name="__RequestVerificationToken" type="hidden" value="aZ91mhyuX0Shw2i0PIAchnxVyjeyk8VsNV7XG_fYyhz7xDZ2VZiJe2u9DtPe2GZ67ClWI19FzkI5a3nE-plY_M-vrtyL3dcE1_4_GRXwLDD72QoRAbmufCf5Fs9XXXj4GGexFargmUoTgj6zpkxiLgh09jY9vpVthJ4I1GneHZY1"/>
 <header class="header header-top-transparent">
 <div class="top-bar">
 <div class="container">
@@ -298,10 +298,10 @@ heaviness, tropical aroma without pungency, and complexity without cacophony.">M
 <div class="menu-content">
 <h4><a data-placement="top" data-toggle="tooltip" title="Appearance:
 Clear, light-blond in colour with a fine head.
-
+ 
 Bouquet:
 Delicate hoppy aromas
-
+ 
 Flavour:
 Initially slightly sweet with a touch of bitterness. Then comes the dry and thirst- slaking aftertaste. A balanced taste.
  ">Primus</a> <span>5.2 abv</span></h4>
@@ -359,7 +359,7 @@ Initially slightly sweet with a touch of bitterness. Then comes the dry and thir
 <img alt="Anti-Hero" class="img-fluid" src="https://labels.untappd.com/labels/9275" width="70"/>
 </div>
 <div class="menu-content">
-<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship IPA is supremely aromatic, crisp, and drinkable. This iconic ale features a blend of Warrior, Chinook, Centennial, and Amarillo to create a crisp clean bitterness and imparts massive floral and citrus aromas.
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship IPA is supremely aromatic, crisp, and drinkable. This iconic ale features a blend of Warrior, Chinook, Centennial, and Amarillo to create a crisp clean bitterness and imparts massive floral and citrus aromas. 
 An American hop assault for all the ambivalent warriors who get the girl in the end. “Look, I ain't in this for your revolution, and I'm not in it for you, Princess.” ">Anti-Hero</a> <span>6.7 abv</span></h4>
 <p>Revolution Brewing Company (Chicago, IL) | IPA - American</p>
 </div>
@@ -504,7 +504,7 @@ Originally a failed attempt at a 1997 batch of Olde GnarlyWine Ale resulting in 
 <img alt="Dale's Pale Ale" class="img-fluid" src="https://labels.untappd.com/labels/10759" width="70"/>
 </div>
 <div class="menu-content">
-<h4><a data-placement="top" data-toggle="tooltip" title="This voluminously hopped mutha delivers a hoppy nose and assertive-but-balanced flavors of pale malts and citrusy floral hops from start to finish. Oskar Blues launched its canning ops in 2002, brewing and hand-canning Dale’s Pale Ale in the Lyons, Colorado, brewpub. America’s first-craft-canned mountain pale is a hearty, critically acclaimed trailblazer that changed the way craft beer fiends perceive portable beer
+<h4><a data-placement="top" data-toggle="tooltip" title="This voluminously hopped mutha delivers a hoppy nose and assertive-but-balanced flavors of pale malts and citrusy floral hops from start to finish. Oskar Blues launched its canning ops in 2002, brewing and hand-canning Dale’s Pale Ale in the Lyons, Colorado, brewpub. America’s first-craft-canned mountain pale is a hearty, critically acclaimed trailblazer that changed the way craft beer fiends perceive portable beer 
 ">Dale's Pale Ale</a> <span>6.5 abv</span></h4>
 <p>Oskar Blues Brewery (Longmont, CO) | Pale Ale - American</p>
 </div>
@@ -553,7 +553,7 @@ Flavour: Sweet and fruity, with a nice balance between sweet and sour. An excell
 <div class="menu-content">
 <h4><a data-placement="top" data-toggle="tooltip" title="We created our first Firestone Lager in 2000, and it proved to be well ahead of its time. Now it's back, new and improved, for those who finally want a better lager.
 
-In a craft world dominated by hoppy beers, we have gone back to basics with Firestone Lager. this is our hardest beer to make--and our easiest one to drink. Made in the classic all-malt Munich Helles style, Firestone Lager demands technical perfection from our brewing team, with a transparent canvas that would otherwise reveal the smallest flaw. Gambrinus pilsner malt establishes a crisp, dry base with a soft mouthfeel, while noble German hops provide just a whisper of bitterness. The result is an impossibly smooth and immensely drinkable beer that aims to help redefine American Lager.
+In a craft world dominated by hoppy beers, we have gone back to basics with Firestone Lager. this is our hardest beer to make--and our easiest one to drink. Made in the classic all-malt Munich Helles style, Firestone Lager demands technical perfection from our brewing team, with a transparent canvas that would otherwise reveal the smallest flaw. Gambrinus pilsner malt establishes a crisp, dry base with a soft mouthfeel, while noble German hops provide just a whisper of bitterness. The result is an impossibly smooth and immensely drinkable beer that aims to help redefine American Lager. 
 
 In the words of Brewmaster Matt Brynildson, &quot;Firestone Lager is made for drinking, not thinking.  It's all about enjoying a good, clean beer.&quot;">Firestone Lager</a> <span>4.5 abv</span></h4>
 <p>Firestone Walker Brewing Company (Paso Robles, CA) | Lager - Helles</p>
@@ -673,9 +673,9 @@ Guinness Extra Cold is the exact same beer only served through a super cooler at
 <img alt="Miller Lite" class="img-fluid" src="https://labels.untappd.com/labels/3811" width="70"/>
 </div>
 <div class="menu-content">
-<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship brand, Miller Lite, is the great tasting, less filling beer that defined the American light beer category in 1975. We deliver a clear, simple message to consumers: \Miller Lite is the better beer choice.\&quot; What's our proof?
-1) Miller Lite is the original light beer.
-2) Miller Lite has real beer taste because it's never watered down.
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship brand, Miller Lite, is the great tasting, less filling beer that defined the American light beer category in 1975. We deliver a clear, simple message to consumers: \Miller Lite is the better beer choice.\&quot; What's our proof? 
+1) Miller Lite is the original light beer. 
+2) Miller Lite has real beer taste because it's never watered down. 
 3) Miller Lite is the only beer to win four gold awards in the World Beer Cup for best American-style light lager. (2006">Miller Lite</a> <span>4.2 abv</span></h4>
 <p>Miller Brewing Company (Milwaukee, WI) | Lager - American Light</p>
 </div>
@@ -799,7 +799,7 @@ The first thing one notices in a Samuel Adams® Winter Lager is its color: the d
 <img alt="Smithwick's" class="img-fluid" src="https://labels.untappd.com/labels/13388" width="70"/>
 </div>
 <div class="menu-content">
-<h4><a data-placement="top" data-toggle="tooltip" title="Smithwick's is a clear beer with a rich ruby color and creamy head. Clean and delicate aroma with different individual notes: from the top fermentation by the Smithwick yeast come aromatic esters creating a fruity aroma. The Aroma Hops added late in the boil contribute clean fresh floral notes. Ale Malt contributes aroma hints of biscuit and caramel.
+<h4><a data-placement="top" data-toggle="tooltip" title="Smithwick's is a clear beer with a rich ruby color and creamy head. Clean and delicate aroma with different individual notes: from the top fermentation by the Smithwick yeast come aromatic esters creating a fruity aroma. The Aroma Hops added late in the boil contribute clean fresh floral notes. Ale Malt contributes aroma hints of biscuit and caramel. 
 Refreshing and clean taste with a gentle balance of bitterness from the hops added early in the boil, sweet/malty notes from the ale malt, and hints of roast/coffee from the roasted barley.  ">Smithwick's</a> <span>4.5 abv</span></h4>
 <p>Guinness (St. James's Gate, Dublin) | Red Ale - Irish</p>
 </div>
@@ -992,7 +992,7 @@ Refreshing and clean taste with a gentle balance of bitterness from the hops add
 <img alt="Anti-Hero" class="img-fluid" src="https://labels.untappd.com/labels/9275" width="70"/>
 </div>
 <div class="menu-content">
-<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship IPA is supremely aromatic, crisp, and drinkable. This iconic ale features a blend of Warrior, Chinook, Centennial, and Amarillo to create a crisp clean bitterness and imparts massive floral and citrus aromas.
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship IPA is supremely aromatic, crisp, and drinkable. This iconic ale features a blend of Warrior, Chinook, Centennial, and Amarillo to create a crisp clean bitterness and imparts massive floral and citrus aromas. 
 An American hop assault for all the ambivalent warriors who get the girl in the end. “Look, I ain't in this for your revolution, and I'm not in it for you, Princess.” ">Anti-Hero</a> <span>6.7 abv</span></h4>
 <p>Revolution Brewing Company (Chicago, IL) | IPA - American</p>
 </div>
@@ -1594,9 +1594,9 @@ Famous for their Nitro series, Left Hand Brewing was the first craft brewery to 
 <img alt="Miller Lite" class="img-fluid" src="https://labels.untappd.com/labels/3811" width="70"/>
 </div>
 <div class="menu-content">
-<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship brand, Miller Lite, is the great tasting, less filling beer that defined the American light beer category in 1975. We deliver a clear, simple message to consumers: \Miller Lite is the better beer choice.\&quot; What's our proof?
-1) Miller Lite is the original light beer.
-2) Miller Lite has real beer taste because it's never watered down.
+<h4><a data-placement="top" data-toggle="tooltip" title="Our flagship brand, Miller Lite, is the great tasting, less filling beer that defined the American light beer category in 1975. We deliver a clear, simple message to consumers: \Miller Lite is the better beer choice.\&quot; What's our proof? 
+1) Miller Lite is the original light beer. 
+2) Miller Lite has real beer taste because it's never watered down. 
 3) Miller Lite is the only beer to win four gold awards in the World Beer Cup for best American-style light lager. (2006">Miller Lite</a> <span>4.2 abv</span></h4>
 <p>Miller Brewing Company (Milwaukee, WI) | Lager - American Light</p>
 </div>

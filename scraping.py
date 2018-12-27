@@ -5,9 +5,11 @@ from bs4 import BeautifulSoup
 import os
 
 url = 'http://www.timothyotooles.com/chicago/drinks/3006/Timothy-O-Toole-s-Chicago-Beer-Menu'
-os.rename('menufile.txt', 'menufile_old.txt')
-os.rename('beerlist.txt', 'beerlist_old.txt')
-os.rename('beertable.csv', 'beertable_old.csv')
+if os.path.exists("menufile.txt"):
+    os.rename('menufile.txt', 'menufile_old.txt')
+if os.path.exists("menufile.txt"):
+    os.rename('beerlist.txt', 'beerlist_old.txt')
+
 
 def simple_get(url):
     """
