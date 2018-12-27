@@ -13,4 +13,9 @@ import os
 beertable = pd.read_table('beerlist.txt', header=None)
 
 #beertext = find_all('div').text()
-print(beertable)
+
+new_beertable = pd.DataFrame(beertable)
+new_beertable = pd.DataFrame(new_beertable.values.reshape(-1, 2), columns = ['beer', 'info'])
+
+print(new_beertable)
+new_beertable.to_csv('new_beertable.csv')
