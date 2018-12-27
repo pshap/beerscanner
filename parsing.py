@@ -3,15 +3,14 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
+import pandas as pd
 import os
 
-with open('menufile.txt') as phtml:
-    contents = phtml.read()
+#with open('beerlist.txt') as beerlist:
+#    contents = beerlist.read()
 #    print(contents)
 
-for div in contents.select('div'):
-        if div['class'] == (menu-item):
-            print(div.text)
+beertable = pd.read_table('beerlist.txt', header=None)
 
 #beertext = find_all('div').text()
-print(type(contents))
+print(beertable)
