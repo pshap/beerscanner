@@ -284,6 +284,16 @@ Staatliches Hofbräuhaus München (München) | Hefeweizen
 
 
 
+IPA 6.2 abv
+Lagunitas Brewing Company (Petaluma, CA) | IPA - American
+
+
+
+
+
+
+
+
 Kidnapped by Vikings 6 abv
 Solemn Oath Brewery (Naperville, IL) | IPA - American
 
@@ -296,16 +306,6 @@ Solemn Oath Brewery (Naperville, IL) | IPA - American
 
 Krombacher Dark 4.7 abv
 Krombacher Gruppe (Kreuztal, Nordrhein-Westfalen) | Schwarzbier
-
-
-
-
-
-
-
-
-Mad Cow 7.9 abv
-Revolution Brewing Company (Chicago, IL) | Stout - Milk / Sweet
 
 
 
@@ -366,16 +366,6 @@ Great Lakes Brewing Company (Cleveland, OH) | Stout - Oatmeal
 
 Parka Porter 5.3 abv
 Goose Island Beer Co. (Chicago, IL) | Porter - American
-
-
-
-
-
-
-
-
-Permanent Funeral 10.5 abv
-3 Floyds Brewing Company (Munster, IN) | IPA - Imperial / Double
 
 
 
@@ -464,16 +454,6 @@ AleSmith Brewing Company (San Diego, CA) | Stout - American Imperial / Double
 
 
 
-Tooth And Claw 5 abv
-Off Color Brewing (Chicago, IL) | Lager - Pale
-
-
-
-
-
-
-
-
 White 5.2 abv
 Allagash Brewing Company (Portland, ME) | Witbier
 
@@ -484,8 +464,8 @@ Allagash Brewing Company (Portland, ME) | Witbier
 
 
 
-Zombie Dust 6.2 abv
-3 Floyds Brewing Company (Munster, IN) | Pale Ale - American
+Winter White Ale 5 abv
+Bell's Brewery (Comstock, MI) | Witbier
 
 
 
