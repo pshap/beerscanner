@@ -5,6 +5,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 
+if os.path.exists("oldbeer.csv"):
+    os.rename('oldbeer.csv', 'oldbeer_old.csv')
+if os.path.exists("newbeer.csv"):
+    os.rename('newbeer.csv', 'newbeer_old.csv')
 
 with open('beertable_old.csv', 'r') as bl1, open('beertable.csv', 'r') as bl2:
     fileone = bl1.readlines()
