@@ -14,12 +14,16 @@ with open('beertable_old.csv', 'r') as bl1, open('beertable.csv', 'r') as bl2:
     fileone = bl1.readlines()
     filetwo = bl2.readlines()
 
+print('New Beer:')
 with open('newbeer.csv', 'w') as newbeer:
     for line in filetwo:
         if line not in fileone:
             newbeer.write(line)
+            print(line)
 
+print('Kegs Kicked:')
 with open('oldbeer.csv', 'w') as oldbeer:
     for line in fileone:
         if line not in filetwo:
             oldbeer.write(line)
+            print(line)
