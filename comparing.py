@@ -20,6 +20,9 @@ with open('newbeer.csv', 'w') as newbeer:
         if line not in fileone:
             newbeer.write(line)
             print(line)
+#newcheck = open('newbeer.csv', 'r')
+#if newcheck.empty:
+#    print('None')
 
 print('Kegs Kicked:')
 with open('oldbeer.csv', 'w') as oldbeer:

@@ -7,7 +7,7 @@ import os
 url = 'http://www.timothyotooles.com/chicago/drinks/3006/Timothy-O-Toole-s-Chicago-Beer-Menu'
 if os.path.exists("menufile.txt"):
     os.rename('menufile.txt', 'menufile_old.txt')
-if os.path.exists("menufile.txt"):
+if os.path.exists("beerlist.txt"):
     os.rename('beerlist.txt', 'beerlist_old.txt')
 
 
